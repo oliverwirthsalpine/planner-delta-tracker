@@ -1,8 +1,88 @@
 {
-  "created_at": "2026-02-16T09:38:15.782278Z",
+  "created_at": "2026-02-20T08:09:38.116826Z",
   "plan_id": null,
-  "task_count": 221,
+  "task_count": 225,
   "tasks": [
+    {
+      "id": "hkzKEsj2P0KB5BZeOGw_upgAJ0f4",
+      "title": "Annika Neumair | DHL",
+      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
+      "bucket_name": "Waitlist",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-02-16T20:26:07.0522512Z",
+      "due_date": null,
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584303333785664497PD",
+      "description": null,
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "y3eMN0JKYku9p_OThkPfypgAAaMb",
+      "title": "Caroline Päffgen",
+      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
+      "bucket_name": "Waitlist",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-02-16T19:23:09.3450012Z",
+      "due_date": null,
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584303371561770594Pz",
+      "description": null,
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "f9KRvgddc0WbSXT4tqclPJgALiqJ",
+      "title": "Roman Wyss | enantios",
+      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
+      "bucket_name": "Create ",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 0,
+      "created_date": "2026-02-16T17:12:30.843784Z",
+      "due_date": "2026-02-20T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584303449947385034P?",
+      "description": "16.02.26 REFERRAL durch Carin Lightner - Sessions angeboten",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "7umCmxS880OTBbUDRIroj5gAPNFX",
+      "title": "Monika Codoury | SCDH",
+      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
+      "bucket_name": "Propose",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 0,
+      "created_date": "2026-02-16T16:39:02.0378353Z",
+      "due_date": "2026-03-09T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584303470034859079P,",
+      "description": "16.02.26 Will mit Chef und HR sprechen, um ein Gespräch zu dritt zu ermöglichen. Nachhaken falls in 4 W nichts kommt.",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
     {
       "id": "wgYerXPfeU-iVEk72jqb9JgAJPkO",
       "title": "Roman Kuehler | Beiersdorf",
@@ -846,8 +926,8 @@
     {
       "id": "q3kFVrZH50yap0L8TLLeiJgANSLS",
       "title": "Harbinder | Orysya | Fertin Canada ",
-      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
-      "bucket_name": "Connect",
+      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
+      "bucket_name": "Create ",
       "assignees": [
         "Oliver Wirths"
       ],
@@ -858,7 +938,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584318144131711990",
-      "description": "30.01.26 Mail to reconnect in regards to Leadership Dev Program \r\n11.02.26 Sent Proposal for 30' coffee chat",
+      "description": "30.01.26 Mail to reconnect in regards to Leadership Dev Program \r\n11.02.26 CONNECT Sent Proposal for 30' coffee chat\r\n19.02.26 INVITE Meeting Orysya",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1106,8 +1186,8 @@
     {
       "id": "eM0K9JqVqkCqc6yMnu2UXZgAIz3G",
       "title": "Ana Sousa | EY x SwissRE",
-      "bucket_id": "WaQPyXktvEOV-oMUJjPpzZgAFxJp",
-      "bucket_name": "Future High Potential",
+      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
+      "bucket_name": "Propose",
       "assignees": [
         "Oliver Wirths"
       ],
@@ -1118,7 +1198,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584327687370242482P~",
-      "description": "19.01.26 CONNECT\r\n28.01.26 CHEMISTRY SESSION\r\n12.02.26 ABSAGE - anderer Facilitator -\"very close\" - Vorschlag für neue Session schicken - gibt es andere Chancen? - INVITE für in 4 Wochen",
+      "description": "19.01.26 CONNECT\r\n28.01.26 CHEMISTRY SESSION\r\n12.02.26 ABSAGE - anderer Facilitator -\"very close\" - Vorschlag für neue Session schicken - gibt es andere Chancen? - INVITE für in 4 Wochen\r\n18.03.26 PROPOSE Call",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -3487,7 +3567,7 @@
     },
     {
       "id": "KCJ5JkGMN0eZBU8DlwNtr5gAHFYR",
-      "title": "Michael Lariviere | Stephan Koenen | Austrian Airlines",
+      "title": "Stephan Koenen | Austrian Airlines",
       "bucket_id": "T3mU1p2KSUW45cHd63HxlpgAJvo6",
       "bucket_name": "Re-enroll",
       "assignees": [
@@ -3496,11 +3576,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2024-08-17T06:58:48.5683622Z",
-      "due_date": "2026-02-18T10:00:00Z",
+      "due_date": "2026-03-31T10:00:00Z",
       "start_date": null,
       "priority": 3,
       "order_hint": "8584777290169561552PC",
-      "description": "28.09.24 Angebot verschickt\r\n17.09.24 Angebot wurde angenommen\r\n23.01.25 Gespräch mit HR (Magdalena Eigner) falls sie zufrieden waren, um CD zu machen\r\n07.02.25 Angehauen wg Nachgespräch\r\n09.01.26 Erstellung Angebot für Change Story\r\n26.01.26 Angebotsbesprechung\r\n18.02.26 Decisions Call",
+      "description": "28.09.24 Angebot verschickt\r\n17.09.24 Angebot wurde angenommen\r\n23.01.25 Gespräch mit HR (Magdalena Eigner) falls sie zufrieden waren, um CD zu machen\r\n07.02.25 Angehauen wg Nachgespräch\r\n09.01.26 Erstellung Angebot für Change Story\r\n26.01.26 Angebotsbesprechung\r\n18.02.26 Decisions Call\r\n16.02.26 Kein Termin mehr mit L. Lariviere (Ende OS Zeit) - S Koenen meldet sich sobald neuer Leiter da ist - oder macht Nägel mit Köpfen.",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -3696,11 +3776,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 50,
       "created_date": "2024-08-15T07:59:28.0813395Z",
-      "due_date": "2026-01-09T10:00:00Z",
+      "due_date": "2026-02-28T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584778981173962412",
-      "description": "15.08.24 Gespräch bei Kaffee\r\n21.08.24 Nachfragen wegen Vernetzung\r\n13.09.24 Vorstellungsmail mit Terminvorschlägen\r\n04.10.24 Angebot geschickt\r\n25.11.24 Nachfrage für 10.12.24 in Liestal.\r\n07.02.25 Telefon\r\n26.02.25 Bitte Offerte für Führungskräfte Entwicklung - er schickt Informationen\r\n21.02.25 Offerte versandt - warte auf Rückmeldung\r\n01/26 Zmittag in Liestal",
+      "description": "15.08.24 Gespräch bei Kaffee\r\n21.08.24 Nachfragen wegen Vernetzung\r\n13.09.24 Vorstellungsmail mit Terminvorschlägen\r\n04.10.24 Angebot geschickt\r\n25.11.24 Nachfrage für 10.12.24 in Liestal.\r\n07.02.25 Telefon\r\n26.02.25 Bitte Offerte für Führungskräfte Entwicklung - er schickt Informationen\r\n21.02.25 Offerte versandt - warte auf Rückmeldung\r\n01/26 Zmittag in Liestal\r\n17.02.26 PROPOSE Termin zum Talent Programm Outdoor BL",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
