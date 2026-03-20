@@ -1,8 +1,28 @@
 {
-  "created_at": "2026-03-13T07:33:13.558886Z",
+  "created_at": "2026-03-20T07:34:57.106902Z",
   "plan_id": null,
-  "task_count": 234,
+  "task_count": 235,
   "tasks": [
+    {
+      "id": "ZgOJ3c-s-k24ow16d98UGZgADome",
+      "title": "Startup CEO | Referral Fabian Hohl",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 0,
+      "created_date": "2026-03-18T15:24:51.6774847Z",
+      "due_date": "2026-03-27T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584277594539238730P_",
+      "description": "Haben Bedarf durch starkes Wachstum von 10 auf 50 in 2 Jahren ca. \r\nKein FK Training / Eignungstest / große Spannungen / keine Zeit für Entwicklung",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
     {
       "id": "m6yD1hNF2kOSwJjjLJAAjJgAKbYe",
       "title": "Armin Taghipour | IET",
@@ -25,27 +45,27 @@
     },
     {
       "id": "ooGiuUbyu0W1IBRlPX00vJgALg9K",
-      "title": "Josephine | Referral Helge ",
-      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
-      "bucket_name": "Connect",
+      "title": "Josephine Bovin | Implenia |Referral Helge ",
+      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
+      "bucket_name": "Create ",
       "assignees": [
         "Oliver Wirths"
       ],
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-03-11T11:14:41.6445327Z",
-      "due_date": "2026-03-13T10:00:00Z",
+      "due_date": "2026-04-15T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584283792038330575",
-      "description": "11.03.26",
+      "description": "11.03.26 Anfrage\r\n13.03.26 INVITE\r\n15.03.26 CREATE – offered 2 x 3h (1800) oder ASCENT outdoor für 3'000",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
     },
     {
       "id": "0DyPbKOcw0-KNIkhaqyOiJgAHCxv",
-      "title": "Jake Empower Sales Lead ",
+      "title": "Jake | Empower | Sales Leader ",
       "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
       "bucket_name": "Invite",
       "assignees": [
@@ -54,13 +74,13 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-03-10T20:49:51.8018368Z",
-      "due_date": "2026-03-18T10:00:00Z",
+      "due_date": "2026-03-23T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584284310936757559",
-      "description": "12.93.2026 INVITE - Interesse nach Team Coaching",
+      "description": "12.93.2026 INVITE - Interesse nach Team Coaching \r\nSee comments",
       "checklist_count": 0,
-      "conversation_thread_id": null,
+      "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAA62x3k-sM20WNqSZ4xlxYHRAA62x3k-sM20WNqSZ4xlxYHQ==",
       "has_description": true
     },
     {
@@ -234,11 +254,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-02-16T16:39:02.0378353Z",
-      "due_date": "2026-03-09T10:00:00Z",
+      "due_date": "2026-03-23T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584303470034859079P,",
-      "description": "16.02.26 Will mit Chef und HR sprechen, um ein Gespräch zu dritt zu ermöglichen. Nachhaken falls in 4 W nichts kommt.",
+      "description": "16.02.26 Will mit Chef und HR sprechen, um ein Gespräch zu dritt zu ermöglichen. Nachhaken falls in 4 W nichts kommt.\r\n17.03.25 Mail",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -674,11 +694,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-02-09T20:01:57.8363887Z",
-      "due_date": "2026-02-27T10:00:00Z",
+      "due_date": "2026-03-23T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584309396276857686PJ",
-      "description": "09.02.26 INBOUND - Terminvorschläge geschickt\r\n11.02.26 PROPOSE - mündliches Proposal 2'700 day rate (1.5 Tage Minimal bis 7700 (3 Tage) maximal+ Reisekosten). Rückmeldung bis nächste Woche.\r\n26.02.26 ANRUF - bitte um Rückruf",
+      "description": "09.02.26 INBOUND - Terminvorschläge geschickt\r\n11.02.26 PROPOSE - mündliches Proposal 2'700 day rate (1.5 Tage Minimal bis 7700 (3 Tage) maximal+ Reisekosten). Rückmeldung bis nächste Woche.\r\n26.02.26 ANRUF - bitte um Rückruf\r\n18.03.2026 ANRUF - sie schreibt eine Mail",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -804,26 +824,6 @@
       "has_description": true
     },
     {
-      "id": "kRSeeJpZL0aljyMgVDgbjpgALP7-",
-      "title": "Karo Hartmann | Director Airframe Mtc.",
-      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
-      "bucket_name": "Invite",
-      "assignees": [
-        "Oliver Wirths"
-      ],
-      "assignees_str": "Oliver Wirths",
-      "percent_complete": 0,
-      "created_date": "2026-02-05T16:00:02.3008376Z",
-      "due_date": "2026-03-13T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584312997433926684Px",
-      "description": "13.02.26 Lunch",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": true
-    },
-    {
       "id": "tA2XsQv0T06ri95xj-fWkpgAPEKJ",
       "title": "Marco Dietrich | Ex Country Lead Bayer",
       "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
@@ -834,11 +834,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-02-04T19:00:44.0195388Z",
-      "due_date": "2026-02-13T10:00:00Z",
+      "due_date": "2026-03-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584313752414580526",
-      "description": "04.02.26 CONNECT - er hat gutes Netzwerk und will coachen. Wir Expertise. Vorschlag - gemeinsames Gespräch mit Lead.  \r\n14.02.26 nachhaken - machen wir was?",
+      "description": "04.02.26 CONNECT - er hat gutes Netzwerk und will coachen. Wir Expertise. Vorschlag - gemeinsames Gespräch mit Lead.\r\n14.02.26 nachhaken - machen wir was?\r\n18.03.26 WhatsApp",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1094,11 +1094,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-01-30T17:01:12.306389Z",
-      "due_date": "2026-02-25T10:00:00Z",
+      "due_date": "2026-03-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584318144131711990",
-      "description": "30.01.26 Mail to reconnect in regards to Leadership Dev Program \r\n11.02.26 CONNECT Sent Proposal for 30' coffee chat\r\n19.02.26 INVITE Meeting Orysya",
+      "description": "30.01.26 Mail to reconnect in regards to Leadership Dev Program\r\n11.02.26 CONNECT Sent Proposal for 30' coffee chat\r\n19.02.26 INVITE Meeting Orysya\r\n18.03.26 CHECK for new meeting option",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1934,11 +1934,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2025-11-19T16:29:14.3962835Z",
-      "due_date": "2026-01-23T10:00:00Z",
+      "due_date": "2026-03-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584380371310813058",
-      "description": "11.11.25 WhatsApp connect\r\n\r\n19.11.25 Call - siehe Notizen in ONENOTE. Verhandlung steht aus, er wird sich melden, dich darf mich melden, wenn bis 18.12.25 nichts kommt von ihm\r\n\r\n19.11.25 kurzes Coaching zum Weiterweg. CS meldet sich nach Klarheit Stellenbesetzung. Wenn nicht bis 18.12. melde ich mich per WhatsApp \r\n09.01.26 Anrufbeantworter\r\n20.01.26 WhatsApp",
+      "description": "11.11.25 WhatsApp connect\r\n19.11.25 Call - siehe Notizen in ONENOTE. Verhandlung steht aus, er wird sich melden, dich darf mich melden, wenn bis 18.12.25 nichts kommt von ihm\r\n19.11.25 kurzes Coaching zum Weiterweg. CS meldet sich nach Klarheit Stellenbesetzung. Wenn nicht bis 18.12. melde ich mich per WhatsApp\r\n09.01.26 Anrufbeantworter\r\n20.01.26 WhatsApp\r\n18.03.26 WhatsApp mit was witzigem",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1946,19 +1946,19 @@
     {
       "id": "9qKua0ldB0WAYIwKmm5xipgAD5EF",
       "title": "Benu Senn, Dani Graf | SHV",
-      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
-      "bucket_name": "Create ",
+      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
+      "bucket_name": "Propose",
       "assignees": [
         "Oliver Wirths"
       ],
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2025-11-14T15:05:27.5283344Z",
-      "due_date": "2026-03-16T10:00:00Z",
+      "due_date": "2026-04-03T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584384742180199277P\"",
-      "description": "14.11.25 meldet sich am 3.2.26 zu OE Strategie \r\nFEB/MAR 26 Termin mit Dani Graf (Teamchef Leistungssport) als Ziel - referral Mail\r\n16.03.26 CREATE Session Rückmeldung Dani bzgl Budget und Team Gespräch",
+      "description": "14.11.25 meldet sich am 3.2.26 zu OE Strategie\r\nFEB/MAR 26 Termin mit Dani Graf (Teamchef Leistungssport) als Ziel - referral Mail\r\n16.03.26 CREATE Session Rückmeldung Dani bzgl Budget und Team Gespräch\r\n18.03.26 PROPOSE Offerte geschickt",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2074,11 +2074,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2025-11-05T17:16:58.3703768Z",
-      "due_date": "2025-11-21T10:00:00Z",
+      "due_date": "2026-03-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584392439271481374Px",
-      "description": "04.11.25 Coaching Session. Will talk to Inderjot about Team Coaching in CAN.",
+      "description": "04.11.25 Coaching Session. Will talk to Inderjot about Team Coaching in CAN.\r\n17.03.26 Mail",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2504,26 +2504,6 @@
       "has_description": true
     },
     {
-      "id": "kCiDwm-540i7ddGN5tgmUpgAGCpb",
-      "title": "Tamas Juhasz ",
-      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
-      "bucket_name": "Invite",
-      "assignees": [
-        "Oliver Wirths"
-      ],
-      "assignees_str": "Oliver Wirths",
-      "percent_complete": 0,
-      "created_date": "2025-09-14T15:57:40.6923143Z",
-      "due_date": "2026-01-29T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584437414247852690",
-      "description": "",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": false
-    },
-    {
       "id": "RCpaijLEt0mIvUy8THkUi5gAOM4a",
       "title": "Linda Simmons | Executive Coach",
       "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
@@ -2674,11 +2654,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2025-08-29T14:03:11.6967504Z",
-      "due_date": "2025-12-31T10:00:00Z",
+      "due_date": "2026-03-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584451307538274967P3",
-      "description": "29.08.25 INVITE - Folgetermin für Deep Dive Coaching vereinbart 6 Wochen nach Start und Vor dem neuen Jahr. \r\n12.11.25 ABSAGE - hat einen internen Coach zugeteilt bekommen, bemüht sich aber bis Ende des Jahres um Coaching für einen seiner Führungskräfte.",
+      "description": "29.08.25 INVITE - Folgetermin für Deep Dive Coaching vereinbart 6 Wochen nach Start und Vor dem neuen Jahr.\r\n12.11.25 ABSAGE - hat einen internen Coach zugeteilt bekommen, bemüht sich aber bis Ende des Jahres um Coaching für einen seiner Führungskräfte.\r\n18.03.26 RECONNECT Mail für Teamleiter",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2955,13 +2935,13 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2025-02-20T18:56:19.0705917Z",
-      "due_date": "2026-03-18T10:00:00Z",
+      "due_date": "2026-03-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584615291664538592P|",
-      "description": "20.02.25 Will sich melden, wenn klar ist, wie es mit der Dept.leitung weiter geht\r\n01.07.2025 DELIVER\r\n10.07.25 Andreas wird sich nach interner Ausarbeitung des Zielbilds wieder melden, August/September. Strategietag soll für H2/25 geplant werden.\r\n11.03.26 Mail zur Reaktivierung",
+      "description": "20.02.25 Will sich melden, wenn klar ist, wie es mit der Dept.leitung weiter geht\r\n01.07.2025 DELIVER\r\n10.07.25 Andreas wird sich nach interner Ausarbeitung des Zielbilds wieder melden, August/September. Strategietag soll für H2/25 geplant werden.\r\n11.03.26 Mail zur Reaktivierung\r\ns.u.",
       "checklist_count": 0,
-      "conversation_thread_id": null,
+      "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAh6Ex94gY8UuxskwQNez6YhAAh6Ex94gY8UuxskwQNez6Yg==",
       "has_description": true
     },
     {
@@ -3135,11 +3115,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2024-10-11T14:13:20.3412369Z",
-      "due_date": "2026-02-27T10:00:00Z",
+      "due_date": "2026-03-20T10:00:00Z",
       "start_date": null,
       "priority": 3,
       "order_hint": "8584729509451832088P@",
-      "description": "11.10.24 - Angebot gemacht 2'500 für Projektunterstützung (Stv. / Entlastung PL // OE, Kommunikation)\r\nNext: Stephan meldet sich (bis Ende OKT) mit internen Abklärungen (Entscheidungsprozess)\r\n20.02.26 Idee Team Event anbieten",
+      "description": "11.10.24 - Angebot gemacht 2'500 für Projektunterstützung (Stv. / Entlastung PL // OE, Kommunikation)\r\nNext: Stephan meldet sich (bis Ende OKT) mit internen Abklärungen (Entscheidungsprozess)\r\n20.02.26 Idee Team Event anbieten\r\n13.03.26 20 weitere Tage in Aussicht gestellt",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -3505,26 +3485,6 @@
       "has_description": false
     },
     {
-      "id": "tvT23EsFjk-dgGboFx9bJpgAB0p5",
-      "title": "Veio Zanolini | STAWA BS",
-      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
-      "bucket_name": "Create ",
-      "assignees": [
-        "Oliver Wirths"
-      ],
-      "assignees_str": "Oliver Wirths",
-      "percent_complete": 0,
-      "created_date": "2024-08-21T13:17:36.5362478Z",
-      "due_date": "2024-09-19T10:00:00Z",
-      "start_date": "2024-08-21T10:00:00Z",
-      "priority": 5,
-      "order_hint": "8584773606889881928PE",
-      "description": "21.08.24 Erstes Gespräch\r\n\r\n13.09.24 Nudge per Mail - Antwort\r\n19.09.24 Intro T Dillier bei Justitia konkret",
-      "checklist_count": 0,
-      "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAARzXD3ckSa0q4KdP8itEk8xAARzXD3ckSa0q4KdP8itEk8w==",
-      "has_description": true
-    },
-    {
       "id": "NZgkx50lmEmYpaiI9mB8C5gACmaC",
       "title": "Day event for best customers + 1 JAN",
       "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
@@ -3785,26 +3745,6 @@
       "has_description": true
     },
     {
-      "id": "6u7Aahw8mkuZ75dTaZou9pgAMlCR",
-      "title": "HARMONJA | Ray Müller",
-      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
-      "bucket_name": "Create ",
-      "assignees": [
-        "Oliver Wirths"
-      ],
-      "assignees_str": "Oliver Wirths",
-      "percent_complete": 0,
-      "created_date": "2024-08-17T06:39:15.04422Z",
-      "due_date": "2025-04-30T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584777301904802236P&",
-      "description": "17.08.24 CREATE: verschoben neuer Termin pending bei RM - er möchte es im Oktober nach seiner Rückkehr machen\r\n01.01.25 Start als PL - dann über Projektunterstützung reden\r\n4.4.25 hat mich auf der Liste – er braucht einen Anstoss wenn er sich bis Ende des Monats nicht meldet. Was ist der richtige Zeitpunkt?\r\n30.05.25 Gespräch mit Vital Meyer – m ein GEfühl es läuft grauenhaft!",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": true
-    },
-    {
       "id": "AJGxxLTqIkGsEYTBTLiYWZgAFBIn",
       "title": "Uwe Kreidel",
       "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
@@ -3960,6 +3900,86 @@
       "priority": 5,
       "order_hint": "8584784030556983706P4",
       "description": "09.08.24 Angebot gesendet, wird sich bis Ende August bei mir melden\r\n08.10.24 Telefon - er hat die Unterlagen als Spam eingestuft sichtet und meldet sich heute zurück\r\n23.04.25 Anruf Andy Greenwell für follow up URO\r\n20.06.25 Andy Request Boat proposal\r\n25.08.25 Follow up Andy\r\n14.10.25 Folgegespräch vereinbart für 21.11\r\n11.11.25 Kündigung. Coaching Angeboten 90‘ für Weiterweg am 5.12. MK confirmed bis 25.11.\r\n30.01.25 Martin nicht erreicht (WhatsApp)\r\n11.03.26 Im Gespräch zzt. Bewerbung im neuen Job neu angehen, jetzt Wert generieren.",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "tvT23EsFjk-dgGboFx9bJpgAB0p5",
+      "title": "Veio Zanolini | STAWA BS",
+      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
+      "bucket_name": "Create ",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 100,
+      "created_date": "2024-08-21T13:17:36.5362478Z",
+      "due_date": "2024-09-19T10:00:00Z",
+      "start_date": "2024-08-21T10:00:00Z",
+      "priority": 5,
+      "order_hint": "8584773606889881928PE",
+      "description": "21.08.24 Erstes Gespräch\r\n\r\n13.09.24 Nudge per Mail - Antwort\r\n19.09.24 Intro T Dillier bei Justitia konkret",
+      "checklist_count": 0,
+      "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAARzXD3ckSa0q4KdP8itEk8xAARzXD3ckSa0q4KdP8itEk8w==",
+      "has_description": true
+    },
+    {
+      "id": "6u7Aahw8mkuZ75dTaZou9pgAMlCR",
+      "title": "HARMONJA | Ray Müller",
+      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
+      "bucket_name": "Create ",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 100,
+      "created_date": "2024-08-17T06:39:15.04422Z",
+      "due_date": "2025-04-30T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584777301904802236P&",
+      "description": "17.08.24 CREATE: verschoben neuer Termin pending bei RM - er möchte es im Oktober nach seiner Rückkehr machen\r\n01.01.25 Start als PL - dann über Projektunterstützung reden\r\n4.4.25 hat mich auf der Liste – er braucht einen Anstoss wenn er sich bis Ende des Monats nicht meldet. Was ist der richtige Zeitpunkt?\r\n30.05.25 Gespräch mit Vital Meyer – m ein GEfühl es läuft grauenhaft!\r\nCANCELLED - er ist kein Entscheidungsträger. Window of Opportunity für 1:1 verpasst.",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "kCiDwm-540i7ddGN5tgmUpgAGCpb",
+      "title": "Tamas Juhasz ",
+      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
+      "bucket_name": "Invite",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 100,
+      "created_date": "2025-09-14T15:57:40.6923143Z",
+      "due_date": "2026-01-29T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584437414247852690",
+      "description": "Cancelled - keine Entscheidungsträger / kein Actionträger",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "kRSeeJpZL0aljyMgVDgbjpgALP7-",
+      "title": "Karo Hartmann | Director Airframe Mtc.",
+      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
+      "bucket_name": "Invite",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 100,
+      "created_date": "2026-02-05T16:00:02.3008376Z",
+      "due_date": null,
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584312997433926684Px",
+      "description": "13.02.26 Lunch\r\nCANCELLED: Keine Entscheidungsbefugnis. Wenn dann Michael Lariviere.",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
