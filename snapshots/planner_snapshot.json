@@ -1,8 +1,48 @@
 {
-  "created_at": "2026-04-03T07:46:33.773272Z",
+  "created_at": "2026-04-10T08:11:31.280431Z",
   "plan_id": null,
-  "task_count": 237,
+  "task_count": 239,
   "tasks": [
+    {
+      "id": "pm9vmB2EOEGH_aBguPqNFZgABDm2",
+      "title": "Rosemary Ayu | self-employed consultant",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 50,
+      "created_date": "2026-04-09T22:28:54.3997031Z",
+      "due_date": "2026-05-29T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584258332112147138Pk",
+      "description": "10.04.26 connect on LinkedIn",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "59x6sGT3Z0SHw4ucXdWkG5gAMODA",
+      "title": "Volker Kederer | ",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 50,
+      "created_date": "2026-04-09T22:18:38.6945991Z",
+      "due_date": "2026-05-01T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584258338268997161PD",
+      "description": "07.04.26: connect via Whatsapp, war gesundheitlich für einige Zeit raus.",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
     {
       "id": "a52IMHsjcECRA9Lo9qdJlpgAHmlC",
       "title": "Juergen \"Lindi\" Lindegger | Head of Jobs NZZ",
@@ -58,7 +98,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584277594539238730P_",
-      "description": "Haben Bedarf durch starkes Wachstum von 10 auf 50 in 2 Jahren ca. \r\nKein FK Training / Eignungstest / große Spannungen / keine Zeit für Entwicklung",
+      "description": "Haben Bedarf durch starkes Wachstum von 10 auf 50 in 2 Jahren ca.\r\nKein FK Training / Eignungstest / große Spannungen / keine Zeit für Entwicklung",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -554,11 +594,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-02-10T23:31:25.338371Z",
-      "due_date": "2026-02-20T10:00:00Z",
+      "due_date": "2026-05-01T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584308406601845933PT",
-      "description": "24.09.25: last exchange\r\n11.02.6 reconnect",
+      "description": "24.09.25: last exchange\r\n11.02.26 / 12.03.26 / 10.04.26 quick reconnect via Whatsapp, but currently based in Dubai and different priorities, therefore short/no answers...\r\n\r\n--> request call to chat.",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -805,9 +845,9 @@
     },
     {
       "id": "QeB2Uo5CeE63XeWAqTErhZgANNIV",
-      "title": "Dominic Hand | AKZENT",
-      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
-      "bucket_name": "Invite",
+      "title": "Dominic Hand | AKZENT & HvR",
+      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
+      "bucket_name": "Create ",
       "assignees": [
         "Julia Berhard"
       ],
@@ -816,9 +856,9 @@
       "created_date": "2026-02-08T22:05:57.992726Z",
       "due_date": "2026-04-17T10:00:00Z",
       "start_date": null,
-      "priority": 5,
+      "priority": 3,
       "order_hint": "8584310185875959186P@",
-      "description": "26.01.26 connect \r\n28.01.26 invite\r\n07.02.26: \"neue Company wird HR-Development verbunden mit HR Design, renewal, restructuring und HR-Systems/Tech. Damit gehen wir dann direkt Richtung Value creation chain im Unternehmen aber ganzheitlicher und tiefer\"\r\n23.02. call - Freelance possibility - will come back within next few weeks",
+      "description": "26.01.26 connect\r\n28.01.26 invite\r\n07.02.26: \"neue Company wird HR-Development verbunden mit HR Design, renewal, restructuring und HR-Systems/Tech. Damit gehen wir dann direkt Richtung Value creation chain im Unternehmen aber ganzheitlicher und tiefer\"\r\n23.02. call - Freelance possibility - will come back within next few weeks\r\n06.03.: konkrete Projekte in Pipeline, ok für Profil bei Pitches gegeben. Nach Afrika Trip konkrete Durchsprache\r\n\r\n09.04.: Hintergrund-Gespräch mit Dominic/Armin koordiniert -> tbd call & next steps im April\r\n\r\n************\r\nMögliche Projekte mit mir als \"HR Process, Change und Cost Expert\"\r\n\r\n- Global Business Services im HR (vorher McK drin)\r\n- Strategie Projekt (competitor Kienbaum gekickt?)\r\n- Transport Streck (Values)",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2094,11 +2134,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2025-11-05T17:16:58.3703768Z",
-      "due_date": "2026-03-31T10:00:00Z",
+      "due_date": "2026-10-30T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584392439271481374Px",
-      "description": "04.11.25 Coaching Session. Will talk to Inderjot about Team Coaching in CAN.\r\n17.03.26 Mail",
+      "description": "04.11.25 Coaching Session. Will talk to Inderjot about Team Coaching in CAN.\r\n17.03.26 Mail\r\n08.04.26 Re Time not right - stay in touch",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2174,11 +2214,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2025-10-20T07:31:29.8983969Z",
-      "due_date": "2026-02-13T10:00:00Z",
+      "due_date": "2026-04-15T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584406614557353641Pu",
-      "description": "in Zurich & Lombok \"seeking investments in retreats, mental health & conscious hospitality // VC investor\r\n\r\n08.02.26: connect for meeting in Zurich",
+      "description": "in Zurich & Lombok \"seeking investments in retreats, mental health & conscious hospitality // VC investor\r\n\r\n08.02.26: connect for meeting in Zurich in April\r\nFollow-up after her vacation",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2284,41 +2324,21 @@
       "has_description": true
     },
     {
-      "id": "6ReXBpzL2UivyPwZDcrDb5gADVwk",
-      "title": "Anna Gonzalez Ramirez | PMI (1:1)",
-      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
-      "bucket_name": "Waitlist",
-      "assignees": [
-        "Julia Berhard"
-      ],
-      "assignees_str": "Julia Berhard",
-      "percent_complete": 0,
-      "created_date": "2025-10-13T23:18:46.0806484Z",
-      "due_date": "2025-10-31T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584412094194355444Pf",
-      "description": null,
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": false
-    },
-    {
       "id": "KWlqtDS50UWiw9oypRmaPJgADcXp",
       "title": "Sara Oliviera | PMI (1:1)",
-      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
-      "bucket_name": "Waitlist",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
       "assignees": [
         "Julia Berhard"
       ],
       "assignees_str": "Julia Berhard",
-      "percent_complete": 0,
+      "percent_complete": 50,
       "created_date": "2025-10-13T23:17:56.0660338Z",
-      "due_date": "2025-10-24T10:00:00Z",
+      "due_date": "2026-05-01T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584412094694552250P=",
-      "description": "Follow-up chat for Pull vs. Push?",
+      "description": "08.10.25: \"really appreciate the session.\" and no follow-up chat for Pull vs. Push\r\n09.04.26: follow-up her new role & push/pull approach",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2338,10 +2358,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584412227728180536P}",
-      "description": "Head of Finance Pharma Switzerland @ Bayer\r\n\r\n13.10.25 connect (Whatsapp): they have transformation coaches for DSO, no individual ones. \"War schon okay, aber nicht wirklich inspirierend. DSO klappt mal mehr mal weniger, an sich finde ich das Konzept aber sehr gut. Entscheidungen dort zu treffen wo die Expertise ist, und da ich im Land arbeite und somit nah am Kunden, treffe ich nun sogar noch mehr Entscheidungen als zuvor\" \r\n\r\n28.01.26 follow-up re DSO (https://www.corporate-rebels.com/blog/how-bayer-transitions-to-self-management-with-100-000-employees)\r\n\r\nnext: Meeting & \"Wen kennst du der davon profitieren könnte?\"",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "FiU4E9o0mEmio3hGJR-ZnpgAFpeR",
@@ -2365,7 +2385,7 @@
     },
     {
       "id": "E63qyrUsE0m3oBSYpVDgK5gANLpD",
-      "title": "Tom Day | Acasus",
+      "title": "Tom Day | Acasus / TBD",
       "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
       "bucket_name": "Connect",
       "assignees": [
@@ -2374,18 +2394,18 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2025-10-10T16:18:08.8531151Z",
-      "due_date": "2026-04-17T10:00:00Z",
+      "due_date": "2026-04-24T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584414938567510562PG",
-      "description": "14.10.25 connect - pain currently in getting company properly set up, follow-up in a few weeks\r\n21.01.26: connect via Signal for next meeting --> Feb/March?\r\n13.02.26 book recommendation for Tom \"just ordered - thanks for signposting\"",
+      "description": "14.10.25 connect - pain currently in getting company properly set up, follow-up in a few weeks\r\n21.01.26: connect via Signal for next meeting --> Feb/March?\r\n13.02.26 book recommendation for Tom \"just ordered - thanks for signposting\"\r\n10.04.26 follow-up on personal catch-up for April\r\nApril 2026 - leaving Acasus. catch-up & discussion of business opportunities",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
     },
     {
       "id": "FIfGIszPhUSkfWk4wYCGg5gAIe6D",
-      "title": "Afsaheh Mamedi | Personal / Inverto",
+      "title": "Afsaneh Mamedi | Personal / Inverto",
       "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
       "bucket_name": "Invite",
       "assignees": [
@@ -2394,11 +2414,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2025-10-10T16:12:38.7022025Z",
-      "due_date": "2026-02-09T10:00:00Z",
+      "due_date": "2026-04-24T10:00:00Z",
       "start_date": null,
       "priority": 3,
       "order_hint": "8584414941869306349Pq",
-      "description": "Full-Time Corporate Mental Coach @INV. Ich hatte das Thema Coaching bei INV damals angestoßen und sie ist da mittlerweile Vollzeit-Kraft. Deswegen hatte ich auch vor kurzem den Mental Health First Aider gemacht\r\n\r\n10.10.: Einladung von ihr zum virtuellen Kaffee & Austausch für den 07.11.\r\n07.11. connect, but sick. next call scheduled in Feb (due to her busy schedule)\r\n--> connect with her after mental health first aid class\r\n06.02.26 next connect --> Follow up with personal vs. business-Meeting",
+      "description": "Full-Time Corporate Mental Coach @INV. Ich hatte das Thema Coaching bei INV damals angestoßen und sie ist da mittlerweile Vollzeit-Kraft. Deswegen hatte ich auch vor kurzem den Mental Health First Aider gemacht\r\n\r\n10.10.: Einladung von ihr zum virtuellen Kaffee & Austausch für den 07.11.\r\n07.11. connect, but sick. next call scheduled in Feb (due to her busy schedule)\r\n--> connect with her after mental health first aid class\r\n06.02.26 next connect\r\n24.04.26: Lumina Spark / AI for coaches --> Request personal vs. business-Meeting",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -3925,6 +3945,26 @@
       "has_description": true
     },
     {
+      "id": "6ReXBpzL2UivyPwZDcrDb5gADVwk",
+      "title": "Anna Gonzalez Ramirez | PMI (1:1)",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 100,
+      "created_date": "2025-10-13T23:18:46.0806484Z",
+      "due_date": "2025-10-31T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584412094194355444Pf",
+      "description": "02.12.2025 connection confirmed, but no response.\r\n\r\nno follow-up or rapport --> no priority lead",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
       "id": "Q9-I08okYUypUwsvL7sWcZgAJSAZ",
       "title": "Christian Seeberger | EMS",
       "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
@@ -4100,7 +4140,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584378923266233069P=",
-      "description": "20.11.25 Connect nach PMI LTL – Situation siehe Kommentare\r\n12.12.25 CREATE - free coaching session\r\n09.01.26 Re-Enroll Nachricht Sprachbox\r\n30.01.26 Missed Call, Voice Mail Whatsapp \r\n02.02.26 Break up message",
+      "description": "20.11.25 Connect nach PMI LTL – Situation siehe Kommentare\r\n12.12.25 CREATE - free coaching session\r\n09.01.26 Re-Enroll Nachricht Sprachbox\r\n30.01.26 Missed Call, Voice Mail Whatsapp\r\n02.02.26 Break up message",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAY80ssYWhRkSW2olc0dx2VxAAY80ssYWhRkSW2olc0dx2Vw==",
       "has_description": true
