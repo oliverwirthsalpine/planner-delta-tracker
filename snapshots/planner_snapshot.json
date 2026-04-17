@@ -1,8 +1,48 @@
 {
-  "created_at": "2026-04-10T08:11:31.280431Z",
+  "created_at": "2026-04-17T08:16:10.749965Z",
   "plan_id": null,
-  "task_count": 239,
+  "task_count": 241,
   "tasks": [
+    {
+      "id": "Wm56NzSCpECT0RUgPN5C9JgABb6G",
+      "title": "Tara Mounce | NGO in UK",
+      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
+      "bucket_name": "Waitlist",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-04-16T23:18:08.3182314Z",
+      "due_date": "2026-05-15T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584252254572145697PU",
+      "description": "schedule connect for May 8",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "5UBqbZlV6UakC-ONHmKlZpgAGJ0P",
+      "title": "Elke Hayoz",
+      "bucket_id": "uNr5rxQUSUOIpUyeCNXrEZgAGw_H",
+      "bucket_name": "Serve Powerfully",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 50,
+      "created_date": "2026-04-16T23:10:17.1865931Z",
+      "due_date": "2026-04-30T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584252259283383457P?",
+      "description": "03.03. Free Coaching Session",
+      "checklist_count": 1,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
     {
       "id": "pm9vmB2EOEGH_aBguPqNFZgABDm2",
       "title": "Rosemary Ayu | self-employed consultant",
@@ -54,7 +94,7 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-03-26T09:12:51.2082022Z",
-      "due_date": "2026-04-09T10:00:00Z",
+      "due_date": "2026-07-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584270905743290735P{",
@@ -306,19 +346,19 @@
     {
       "id": "f9KRvgddc0WbSXT4tqclPJgALiqJ",
       "title": "Roman Wyss | enantios",
-      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
-      "bucket_name": "Create ",
+      "bucket_id": "uNr5rxQUSUOIpUyeCNXrEZgAGw_H",
+      "bucket_name": "Serve Powerfully",
       "assignees": [
         "Oliver Wirths"
       ],
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-02-16T17:12:30.843784Z",
-      "due_date": "2026-04-15T10:00:00Z",
+      "due_date": null,
       "start_date": null,
       "priority": 5,
       "order_hint": "8584303449947385034P?",
-      "description": "16.02.26 REFERRAL durch Carin Lightner - Sessions angeboten\r\n04.03.26 CREATE Session am 15.04. vereinbart bei enantios",
+      "description": "16.02.26 REFERRAL durch Carin Lightner - Sessions angeboten\r\n04.03.26 CREATE Session am 15.04. vereinbart bei enantios\r\n15.04.26 PROPOSE Accepted proposal (mündlich) - 3x3",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -805,20 +845,20 @@
     },
     {
       "id": "GWucjKVEBkergt7GzAEv5pgAJXKV",
-      "title": "Joline x WIN connect day",
-      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
-      "bucket_name": "Connect",
+      "title": "Masterclass | WIN connect day (May 28)",
+      "bucket_id": "uNr5rxQUSUOIpUyeCNXrEZgAGw_H",
+      "bucket_name": "Serve Powerfully",
       "assignees": [
         "Julia Berhard"
       ],
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-02-08T23:05:20.2252005Z",
-      "due_date": "2026-02-20T10:00:00Z",
+      "due_date": "2026-05-28T10:00:00Z",
       "start_date": null,
-      "priority": 5,
+      "priority": 3,
       "order_hint": "8584310150256365557Pp",
-      "description": "05.02.26: connect re WIN connect day masterclasses",
+      "description": "05.02.26: connect re WIN connect day masterclasses\r\n10.03.26 revision of offer (based on feedback)\r\n14.04.26: offer accepted (3700€)\r\n21.04.26: call to discuss concept & details",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1174,11 +1214,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-01-30T17:01:12.306389Z",
-      "due_date": "2026-03-31T10:00:00Z",
+      "due_date": "2026-08-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584318144131711990",
-      "description": "30.01.26 Mail to reconnect in regards to Leadership Dev Program\r\n11.02.26 CONNECT Sent Proposal for 30' coffee chat\r\n19.02.26 INVITE Meeting Orysya\r\n18.03.26 CHECK for new meeting option",
+      "description": "30.01.26 Mail to reconnect in regards to Leadership Dev Program\r\n11.02.26 CONNECT Sent Proposal for 30' coffee chat\r\n19.02.26 INVITE Meeting Orysya\r\n18.03.26 CHECK for new meeting option\r\n15.04.26 HOLD - good bye mail with 3 options for further engagement",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1799,7 +1839,7 @@
       "priority": 5,
       "order_hint": "8584369507426150225P8",
       "description": "04.02.26 – Sold Team WS 🎉",
-      "checklist_count": 2,
+      "checklist_count": 4,
       "conversation_thread_id": null,
       "has_description": true
     },
@@ -2358,10 +2398,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584412227728180536P}",
-      "description": "",
+      "description": "Head of Finance Pharma Switzerland @ Bayer\r\n\r\n13.10.25 connect (Whatsapp): they have transformation coaches for DSO, no individual ones. \"War schon okay, aber nicht wirklich inspirierend. DSO klappt mal mehr mal weniger, an sich finde ich das Konzept aber sehr gut. Entscheidungen dort zu treffen wo die Expertise ist, und da ich im Land arbeite und somit nah am Kunden, treffe ich nun sogar noch mehr Entscheidungen als zuvor\" \r\n\r\n28.01.26 follow-up re DSO (https://www.corporate-rebels.com/blog/how-bayer-transitions-to-self-management-with-100-000-employees)\r\n\r\nnext: Meeting & \"Wen kennst du der davon profitieren könnte?\"",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": false
+      "has_description": true
     },
     {
       "id": "FiU4E9o0mEmio3hGJR-ZnpgAFpeR",
@@ -2379,26 +2419,6 @@
       "priority": 5,
       "order_hint": "8584412233960809299PM",
       "description": "13.10.25: connect via LinkedIN\r\n08.11.25: connect\r\n30.12.25: post from Swisspreneur (Ross Mason)\r\n27.01.26: connect re meeting Lausanne",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": true
-    },
-    {
-      "id": "E63qyrUsE0m3oBSYpVDgK5gANLpD",
-      "title": "Tom Day | Acasus / TBD",
-      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
-      "bucket_name": "Connect",
-      "assignees": [
-        "Julia Berhard"
-      ],
-      "assignees_str": "Julia Berhard",
-      "percent_complete": 50,
-      "created_date": "2025-10-10T16:18:08.8531151Z",
-      "due_date": "2026-04-24T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584414938567510562PG",
-      "description": "14.10.25 connect - pain currently in getting company properly set up, follow-up in a few weeks\r\n21.01.26: connect via Signal for next meeting --> Feb/March?\r\n13.02.26 book recommendation for Tom \"just ordered - thanks for signposting\"\r\n10.04.26 follow-up on personal catch-up for April\r\nApril 2026 - leaving Acasus. catch-up & discussion of business opportunities",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -3615,11 +3635,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2024-08-17T07:19:17.5422565Z",
-      "due_date": "2026-02-06T10:00:00Z",
+      "due_date": null,
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777277879665828P$",
-      "description": "Letzte Session wird Mitte September sein. Dann neues Angebot machen.\r\nKann ich für seine Company was in CO tun?\r\n08.10.2024 - follow up per Mail Termine geschickt\r\n08.11.2024 Follow Up Termin geplant\r\n02.12.2024 ASCENT in Denver\r\n26.02.2025 letzte Session - wie weiter?\r\n05.02.26 - Letzte Session im DEZ - wie weiter?",
+      "description": "Letzte Session wird Mitte September sein. Dann neues Angebot machen.\r\nKann ich für seine Company was in CO tun?\r\n08.10.2024 - follow up per Mail Termine geschickt\r\n08.11.2024 Follow Up Termin geplant\r\n02.12.2024 ASCENT in Denver\r\n26.02.2025 letzte Session - wie weiter?\r\n05.02.26 - Letzte Session im DEZ - wie weiter?\r\n13.04.26 - Session #6 - Invoice & Neue Offerte",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -3895,11 +3915,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 50,
       "created_date": "2024-08-15T07:59:28.0813395Z",
-      "due_date": "2026-04-15T10:00:00Z",
+      "due_date": "2026-04-30T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584778981173962412",
-      "description": "15.08.24 Gespräch bei Kaffee\r\n21.08.24 Nachfragen wegen Vernetzung\r\n13.09.24 Vorstellungsmail mit Terminvorschlägen\r\n04.10.24 Angebot geschickt\r\n25.11.24 Nachfrage für 10.12.24 in Liestal.\r\n07.02.25 Telefon\r\n26.02.25 Bitte Offerte für Führungskräfte Entwicklung - er schickt Informationen\r\n21.02.25 Offerte versandt - warte auf Rückmeldung\r\n01/26 Zmittag in Liestal\r\n17.02.26 PROPOSE Termin zum Talent Programm Outdoor BL\r\n15.04.26 PROPOSE Besprechung Offerte",
+      "description": "15.08.24 Gespräch bei Kaffee\r\n21.08.24 Nachfragen wegen Vernetzung\r\n13.09.24 Vorstellungsmail mit Terminvorschlägen\r\n04.10.24 Angebot geschickt\r\n25.11.24 Nachfrage für 10.12.24 in Liestal.\r\n07.02.25 Telefon\r\n26.02.25 Bitte Offerte für Führungskräfte Entwicklung - er schickt Informationen\r\n21.02.25 Offerte versandt - warte auf Rückmeldung\r\n01/26 Zmittag in Liestal\r\n17.02.26 PROPOSE Termin zum Talent Programm Outdoor BL\r\n15.04.26 PROPOSE Besprechung Offerte\r\nNext: melden sich mit Details zu Anforderungen",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -3940,6 +3960,26 @@
       "priority": 5,
       "order_hint": "8584784030556983706P4",
       "description": "09.08.24 Angebot gesendet, wird sich bis Ende August bei mir melden\r\n08.10.24 Telefon - er hat die Unterlagen als Spam eingestuft sichtet und meldet sich heute zurück\r\n23.04.25 Anruf Andy Greenwell für follow up URO\r\n20.06.25 Andy Request Boat proposal\r\n25.08.25 Follow up Andy\r\n14.10.25 Folgegespräch vereinbart für 21.11\r\n11.11.25 Kündigung. Coaching Angeboten 90‘ für Weiterweg am 5.12. MK confirmed bis 25.11.\r\n30.01.25 Martin nicht erreicht (WhatsApp)\r\n11.03.26 Im Gespräch zzt. Bewerbung im neuen Job neu angehen, jetzt Wert generieren.",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "E63qyrUsE0m3oBSYpVDgK5gANLpD",
+      "title": "Tom Day | Acasus / TBD",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 100,
+      "created_date": "2025-10-10T16:18:08.8531151Z",
+      "due_date": "2026-04-24T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584414938567510562PG",
+      "description": "14.10.25 connect - pain currently in getting company properly set up, follow-up in a few weeks\r\n21.01.26: connect via Signal for next meeting --> Feb/March?\r\n13.02.26 book recommendation for Tom \"just ordered - thanks for signposting\"\r\n10.04.26 follow-up on personal catch-up for April\r\n21.04.26 - leaving Acasus. lots going on in personal life, hence therapy & acupuncture etc.  \r\nHence: I'll leave it for now..",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
