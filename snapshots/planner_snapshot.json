@@ -1,8 +1,88 @@
 {
-  "created_at": "2026-05-15T09:35:36.395637Z",
+  "created_at": "2026-05-22T10:01:07.543339Z",
   "plan_id": null,
-  "task_count": 268,
+  "task_count": 272,
   "tasks": [
+    {
+      "id": "45ZUJl6NLkCw3vTkmBAGqJgAJPUG",
+      "title": "Michael Reich",
+      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
+      "bucket_name": "Invite",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 0,
+      "created_date": "2026-05-21T12:53:47.6954499Z",
+      "due_date": "2026-06-04T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584222389179028755P%",
+      "description": "21.05.26 Mail - trainieren FK und suchen nach neuen Ansätzen. Will sich melden, Wiedervorlage 2W",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "8dnl6vPsdU6QLwuG8dpQR5gAMUhB",
+      "title": "Thomas Müller | SVP Sales BeauTech",
+      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
+      "bucket_name": "Waitlist",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 0,
+      "created_date": "2026-05-19T06:58:03.900922Z",
+      "due_date": null,
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584224330616719533PW",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "GO63v8gEqEiphP-45fMK1pgALLvQ",
+      "title": "Michele",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-05-18T21:01:14.9945976Z",
+      "due_date": "2026-05-22T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584224688705351052PD",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "9T7Jy7MGLkKeGv4XgqRWTZgANo3O",
+      "title": "Adrian",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-05-18T21:01:05.5756216Z",
+      "due_date": "2026-05-22T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584224688799564241P+",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
     {
       "id": "yT-Uaqn9kkK8OsJrvd2P4pgAIdpg",
       "title": "Praveen Sundar M",
@@ -305,7 +385,7 @@
     },
     {
       "id": "i7PRq4Ux2kW-P0M3mTuhX5gAKQHd",
-      "title": "Maxime | Climeworks",
+      "title": "Maxime Tornier | Head of Prod Climeworks",
       "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
       "bucket_name": "Invite",
       "assignees": [
@@ -314,11 +394,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-05-09T10:41:19.7776294Z",
-      "due_date": "2026-05-13T10:00:00Z",
+      "due_date": "2026-06-03T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584232836056999603",
-      "description": "02.05.26 CONNECT",
+      "description": "02.05.26 CONNECT\r\n21.05.26 LUNCH & PROPOSE\r\n03.05.26 CALL 2",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAp4SplfflwEyFTbO4InaTORAAp4SplfflwEyFTbO4InaTOQ==",
       "has_description": true
@@ -414,11 +494,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-04-29T08:48:40.6416786Z",
-      "due_date": "2026-05-08T10:00:00Z",
+      "due_date": "2026-06-18T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584241544251067269Pd",
-      "description": "LinkedInAds\r\n29.04.26 CONNECT: 1. Versuch Telefon\r\n07.05.26 2. Versuch\r\nhttps://chatgpt.com/g/g-p-6977950c561481919e83a91499b15841-sales-excellence/c/69f1c41b-6290-8395-802",
+      "description": "LinkedInAds\r\n29.04.26 CONNECT: 1. Versuch Telefon\r\n07.05.26 2. Versuch\r\nhttps://chatgpt.com/g/g-p-6977950c561481919e83a91499b15841-sales-excellence/c/69f1c41b-6290-8395-802\r\n21.05. W/A - bitte Termin in 2-3 Wochen",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -779,7 +859,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584297285190177913PJ",
-      "description": "Interessenten: \r\nMarkus Wellstein, Carin Lightner, Natalia Chernodub nochernodub@gmail.com, benedict.schloegl@outlook.com,",
+      "description": "Interessenten:\r\nMarkus Wellstein, Carin Lightner, Natalia Chernodub nochernodub@gmail.com, benedict.schloegl@outlook.com,",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1799,10 +1879,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584325780853344939Pj",
-      "description": "",
+      "description": "21.01.26: connect re Addis",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": false
+      "has_description": true
     },
     {
       "id": "h2ZPp7JzAUGZZdsRyCMLl5gAPD__",
@@ -1879,10 +1959,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584331816014498105PI",
-      "description": "14.01.26",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "so0S6uXqAkuKsRKA2VoadZgALZlF",
@@ -2355,11 +2435,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2025-11-21T13:04:42.5842169Z",
-      "due_date": "2026-01-30T10:00:00Z",
+      "due_date": "2026-05-22T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584378766629357698P-",
-      "description": "Head of Business Development Battery Recycling / Aurubis\r\n\r\n21/11: contacted \r\n25/11: connected. limited budget at company, had coaching before: liked it, but currently no need AND thinks that people see coaching as \"I miss something & need help\"\r\n\r\nfollow-up in Jan?",
+      "description": "Head of Business Development Battery Recycling / Aurubis\r\n\r\n21/11: contacted\r\n25/11: connected. limited budget at company, had coaching before: liked it, but currently no need AND thinks that people see coaching as \"I miss something & need help\"\r\n\r\nfollow-up in Jan?",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2606,20 +2686,20 @@
     },
     {
       "id": "Lyisc1Eyv0Gds1AZmTUWFJgACF3s",
-      "title": "BCG Alumni Career Services",
-      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
-      "bucket_name": "Waitlist",
+      "title": "Dunja Bühler | BCG Alumni Career Services",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
       "assignees": [
         "Julia Berhard"
       ],
       "assignees_str": "Julia Berhard",
-      "percent_complete": 0,
+      "percent_complete": 50,
       "created_date": "2025-10-20T18:52:04.5641108Z",
-      "due_date": "2026-05-18T10:00:00Z",
+      "due_date": "2026-05-29T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584406206210156807P~",
-      "description": "https://www.bcg.com/alumni/alumni-career-services\r\n\r\nConnect aftere SOLA Run get together",
+      "description": "https://www.bcg.com/alumni/alumni-career-services --> Dunja Bühler\r\n\r\nConnect after SOLA Run get together",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -3601,7 +3681,7 @@
       "priority": 5,
       "order_hint": "8584742397099886233",
       "description": "25.10.2024 Versand Angebot\r\n08.11.2024 Verhandlung und Details, Ruth kennen lernen\r\n25.11.2024 Email follow up geschickt\r\n29.01.2025 Follow Up Email\r\n27.02.2025 Kommerzielles Vorgespräch\r\n26.03.2026 Reminder für Session / Freischaltung für ASCENT\r\n13.05.26 Sales Video geschickt, AM bucht Termin",
-      "checklist_count": 7,
+      "checklist_count": 8,
       "conversation_thread_id": null,
       "has_description": true
     },
