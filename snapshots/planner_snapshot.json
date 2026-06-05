@@ -1,8 +1,228 @@
 {
-  "created_at": "2026-05-29T10:34:50.259854Z",
+  "created_at": "2026-06-05T10:36:43.063372Z",
   "plan_id": null,
-  "task_count": 272,
+  "task_count": 283,
   "tasks": [
+    {
+      "id": "-9bIswAZAUuh6U31jMh8VJgADOhI",
+      "title": "Alex Wittebrood",
+      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
+      "bucket_name": "Propose",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 0,
+      "created_date": "2026-06-04T14:03:23.4263553Z",
+      "due_date": "2026-06-11T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584210251421258468P>",
+      "description": "PROPOSE: Gespräch nach Inbound. Offer schicken am 04.06.2026",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "FzLDjdsaHEi0U5rcJYnT85gACzvW",
+      "title": "Manuel Barth | INV",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-06-03T22:18:08.6943064Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584210818570403804P3",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "e8QMskErHUah5oFA0xQG0pgAKUrz",
+      "title": "Clara | INV",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-06-03T22:14:24.1558357Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584210820813674819P;",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "ESEL3RZwk0-OH0Qjy3IAeJgAFzpz",
+      "title": "Marta | INV",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-06-03T22:14:15.2111322Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584210820903197004P#",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "CeBS_D_zbEeaLgwej9VSGpgABlh_",
+      "title": "Marie | INV",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-06-03T22:13:53.6547852Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584210821118835083PI",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "EgZfgUO7HEShvN9RljQmkpgAGzT1",
+      "title": "Katharina Erfort | INV",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-06-03T22:13:24.5346587Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584210821410006922P=",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "Gr3HgtY1vU-gKh6UMaOJ6JgAPnN4",
+      "title": "Henning Hatje",
+      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
+      "bucket_name": "Waitlist",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-06-03T22:13:03.7468305Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584210821618197704P/",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "x_Sw_T4YEkC6ThFUw_NUV5gABzGL",
+      "title": "Nils Honerla | Burda",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 50,
+      "created_date": "2026-06-03T22:12:22.3420585Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584210822032091492PI",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
+    },
+    {
+      "id": "xX8vLnU75UeVr0T938UWipgAK8SI",
+      "title": "Jasmin Fröhlich | Inverto",
+      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
+      "bucket_name": "Invite",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 50,
+      "created_date": "2026-06-03T12:59:39.0533139Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584211153664946899P&",
+      "description": "WIN connect day --> invite",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "3YwRs_kjlUupil0avCtt-ZgACAKv",
+      "title": "Anna Kollenbrandt | Inverto",
+      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
+      "bucket_name": "Invite",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 50,
+      "created_date": "2026-06-03T12:58:43.2681435Z",
+      "due_date": "2026-06-12T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584211154222603277PE",
+      "description": "WIN connect day --> meeting um mögliche Zusammenarbeit zu besprechen",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "oShY3wQhYUykZE2HX9Pz3pgAOp89",
+      "title": "Diana Lehnigk | LHA (privat)",
+      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
+      "bucket_name": "Create ",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 0,
+      "created_date": "2026-06-01T15:43:51.6588442Z",
+      "due_date": "2026-08-13T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584212783138669723PC",
+      "description": "13.08. Vorschlag CREATE Session",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
     {
       "id": "45ZUJl6NLkCw3vTkmBAGqJgAJPUG",
       "title": "Michael Reich",
@@ -366,19 +586,19 @@
     {
       "id": "OvXgGKvPt0W5ULk8ATia7ZgAEc1q",
       "title": "Gwendoline Mordacq | PMI",
-      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
-      "bucket_name": "Invite",
+      "bucket_id": "XWFgoLCv9EibxB_Jy7yU95gAPoRN",
+      "bucket_name": "Create ",
       "assignees": [
         "Julia Berhard"
       ],
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-05-12T09:43:39.9624066Z",
-      "due_date": "2026-05-29T10:00:00Z",
+      "due_date": "2026-06-26T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584230279255678844Pz",
-      "description": "- May 2026 LTL & wants to connect properly. 11.05. invite for call",
+      "description": "- May 2026 LTL & wants to connect properly. 11.05. invite for call\r\n- 27.05. coaching call. kein weiterer Bedarf. will erst Modul 2 abwarten",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -386,19 +606,19 @@
     {
       "id": "i7PRq4Ux2kW-P0M3mTuhX5gAKQHd",
       "title": "Maxime Tornier | Head of Prod Climeworks",
-      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
-      "bucket_name": "Invite",
+      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
+      "bucket_name": "Propose",
       "assignees": [
         "Oliver Wirths"
       ],
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-05-09T10:41:19.7776294Z",
-      "due_date": "2026-06-03T10:00:00Z",
+      "due_date": "2026-06-10T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584232836056999603",
-      "description": "02.05.26 CONNECT\r\n21.05.26 LUNCH & PROPOSE\r\n03.05.26 CALL 2",
+      "description": "02.05.26 CONNECT\r\n21.05.26 LUNCH & PROPOSE\r\n03.06.26 CALL 2 – Inhalte und Format gefixed. Er muss noch Budget besorgen. \r\n10.06.26 CALL 3",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAp4SplfflwEyFTbO4InaTORAAp4SplfflwEyFTbO4InaTOQ==",
       "has_description": true
@@ -434,11 +654,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-05-04T20:13:03.4049885Z",
-      "due_date": "2026-05-22T10:00:00Z",
+      "due_date": "2026-06-26T10:00:00Z",
       "start_date": null,
-      "priority": 5,
+      "priority": 9,
       "order_hint": "8584236813621320172P0",
-      "description": "Invite for 11./12.05.",
+      "description": "Invite for 11./12.05.\r\naktuell busy",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -555,11 +775,11 @@
       "assignees_str": "Julia Berhard, Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-04-27T14:25:14.2698481Z",
-      "due_date": "2026-05-26T10:00:00Z",
+      "due_date": "2026-07-07T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584243070312750480P)",
-      "description": "REFERRAL: Haben Bedarf durch starkes Wachstum von 10 auf 50 in 2 Jahren ca.\r\nKein FK Training / Eignungstest / große Spannungen / keine Zeit für Entwicklung\r\n27.04.26 PROPOSE Call\r\n30.04.26 PROPOSE Angebot geschickt",
+      "description": "REFERRAL: Haben Bedarf durch starkes Wachstum von 10 auf 50 in 2 Jahren ca.\r\nKein FK Training / Eignungstest / große Spannungen / keine Zeit für Entwicklung\r\n27.04.26 PROPOSE Call\r\n30.04.26 PROPOSE Angebot geschickt\r\n02.06.26 PROPOSE Call - Verschiebung der Ausgangssituation, neuer Call abgemacht\r\n07.07.26 PROPOSE CALL",
       "checklist_count": 2,
       "conversation_thread_id": null,
       "has_description": true
@@ -675,12 +895,12 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-04-16T23:10:17.1865931Z",
-      "due_date": "2026-05-22T10:00:00Z",
+      "due_date": "2026-06-12T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584252259283383457P?",
       "description": "03.03. Free Coaching Session",
-      "checklist_count": 2,
+      "checklist_count": 3,
       "conversation_thread_id": null,
       "has_description": true
     },
@@ -782,26 +1002,6 @@
       "description": "12.03.2026 INVITE - Interesse nach Team Coaching (comments)\r\n23.04.2026 PROPOSE - 10 sessions Start 3'300 CHF (WIN)",
       "checklist_count": 10,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAA62x3k-sM20WNqSZ4xlxYHRAA62x3k-sM20WNqSZ4xlxYHQ==",
-      "has_description": true
-    },
-    {
-      "id": "LJnnpfTt9UiwzUScYvbXQJgAEtQG",
-      "title": "Jan Overney",
-      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
-      "bucket_name": "Propose",
-      "assignees": [
-        "Oliver Wirths"
-      ],
-      "assignees_str": "Oliver Wirths",
-      "percent_complete": 0,
-      "created_date": "2026-03-07T08:06:04.0629873Z",
-      "due_date": "2026-06-03T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584287361814958645Pr",
-      "description": "11.03.26 CREATE Session\r\n19.06.26 PROPOSE - Entscheidung",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
       "has_description": true
     },
     {
@@ -907,19 +1107,19 @@
     {
       "id": "f9KRvgddc0WbSXT4tqclPJgALiqJ",
       "title": "Roman Wyss | enantios",
-      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
-      "bucket_name": "Propose",
+      "bucket_id": "uNr5rxQUSUOIpUyeCNXrEZgAGw_H",
+      "bucket_name": "Serve Powerfully",
       "assignees": [
         "Oliver Wirths"
       ],
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-02-16T17:12:30.843784Z",
-      "due_date": "2026-05-30T10:00:00Z",
+      "due_date": "2026-08-31T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584303449947385034P?",
-      "description": "16.02.26 REFERRAL durch Carin Lightner - Sessions angeboten\r\n04.03.26 CREATE Session am 15.04. vereinbart bei enantios\r\n15.04.26 PROPOSE Accepted proposal (mündlich) - 3x3\r\n30.04.26 Will decide in mid may. Call hat Missverständnis aufgedeckt.",
+      "description": "16.02.26 REFERRAL durch Carin Lightner - Sessions angeboten\r\n04.03.26 CREATE Session am 15.04. vereinbart bei enantios\r\n15.04.26 PROPOSE Accepted proposal (mündlich) - 3x3\r\n30.04.26 Will decide in mid may. Call hat Missverständnis aufgedeckt.\r\n19.05.26 YES - session im August angeboten",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1365,26 +1565,6 @@
       "has_description": true
     },
     {
-      "id": "GWucjKVEBkergt7GzAEv5pgAJXKV",
-      "title": "Masterclass | WIN connect day (May 28)",
-      "bucket_id": "uNr5rxQUSUOIpUyeCNXrEZgAGw_H",
-      "bucket_name": "Serve Powerfully",
-      "assignees": [
-        "Julia Berhard"
-      ],
-      "assignees_str": "Julia Berhard",
-      "percent_complete": 50,
-      "created_date": "2026-02-08T23:05:20.2252005Z",
-      "due_date": "2026-05-28T10:00:00Z",
-      "start_date": null,
-      "priority": 3,
-      "order_hint": "8584310150256365557Pp",
-      "description": "05.02.26: connect re WIN connect day masterclasses\r\n10.03.26 revision of offer (based on feedback)\r\n14.04.26: offer accepted (3700€)\r\n21.04.26: call to discuss concept & details",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": true
-    },
-    {
       "id": "KKrzYTq7JU68NVon0KwbJpgABiRY",
       "title": "Sien van Boven | Start-up",
       "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
@@ -1415,11 +1595,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-02-08T22:05:57.992726Z",
-      "due_date": "2026-05-28T10:00:00Z",
+      "due_date": "2026-06-12T10:00:00Z",
       "start_date": null,
       "priority": 3,
       "order_hint": "8584310185875959186P@",
-      "description": "26.01.26 connect\r\n28.01.26 invite\r\n07.02.26: \"neue Company wird HR-Development verbunden mit HR Design, renewal, restructuring und HR-Systems/Tech. Damit gehen wir dann direkt Richtung Value creation chain im Unternehmen aber ganzheitlicher und tiefer\"\r\n23.02. call - Freelance possibility - will come back within next few weeks\r\n06.03.: konkrete Projekte in Pipeline, ok für Profil bei Pitches gegeben. Nach Afrika Trip konkrete Durchsprache\r\n\r\n09.04 koordiniert / 30.4. durchgeführt: Hintergrund-Gespräch mit Dominic/Armin\r\n12.05.: Kärcher kommt und startet nächste Woche\r\n\r\n************\r\nMögliche Projekte mit mir als \"HR Process, Change und Cost Expert\"\r\n\r\n- Global Business Services im HR (vorher McK drin)\r\n- Strategie Projekt (competitor Kienbaum gekickt?)\r\n- Transport Streck (Values)",
+      "description": "26.01.26 connect\r\n28.01.26 invite\r\n07.02.26: \"neue Company wird HR-Development verbunden mit HR Design, renewal, restructuring und HR-Systems/Tech. Damit gehen wir dann direkt Richtung Value creation chain im Unternehmen aber ganzheitlicher und tiefer\"\r\n23.02. call - Freelance possibility - will come back within next few weeks\r\n06.03.: konkrete Projekte in Pipeline, ok für Profil bei Pitches gegeben. Nach Afrika Trip konkrete Durchsprache\r\n\r\n09.04 koordiniert / 30.4. durchgeführt: Hintergrund-Gespräch mit Dominic/Armin\r\n12.05.: Kärcher kommt und startet nächste Woche\r\n10.06. Kick-off für Kärcher & 12.06. Planung für Projekt & Bedarf Tage etc.\r\n\r\n************\r\nMögliche Projekte mit mir als \"HR Process, Change und Cost Expert\"\r\n\r\n- Global Business Services im HR (vorher McK drin)\r\n- Strategie Projekt (competitor Kienbaum gekickt?)\r\n- Transport Streck (Values)",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2300,7 +2480,7 @@
       "priority": 5,
       "order_hint": "8584369507426150225P8",
       "description": "04.02.26 – Sold Team WS 🎉",
-      "checklist_count": 5,
+      "checklist_count": 6,
       "conversation_thread_id": null,
       "has_description": true
     },
@@ -4026,26 +4206,6 @@
       "has_description": true
     },
     {
-      "id": "60kTVmB11kabT_oh1pfwZpgAAAyD",
-      "title": "Karin Kisiala | Leiterin Digitale Transformation BL",
-      "bucket_id": "T3mU1p2KSUW45cHd63HxlpgAJvo6",
-      "bucket_name": "Re-enroll",
-      "assignees": [
-        "Oliver Wirths"
-      ],
-      "assignees_str": "Oliver Wirths",
-      "percent_complete": 0,
-      "created_date": "2024-08-20T05:20:10.4622176Z",
-      "due_date": "2026-04-13T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584774757351244106PA",
-      "description": "Leitet digitale Transformation, hat ein OE \"inhouse\" (eine Person pro Direktion, einen direkt unterstellten OEler). Grosse Aufgaben (Strategie, Regierungsrat, etc.)\r\n\r\n12.04.24. Termin mit Pascal Boltzern - siehe ONENOTE / Kommentar \r\n21.05.2024 Mittagessen Anfrage verschoben und pendent \r\n20.08.2024 PB will sich melden wenn OE Community nicht mehr plätschert und restrukturiert werden soll / KK schliesst Zusammenarbeit nicht aus. >> Mittagessen organisieren. \r\n\r\n18.09.24 Kennenlernen ONEDAY Wasserfallen Event\r\n\r\nErneute Aufnahme Beziehung über Meeting im JAN \r\n24.03.25 Meldet sich wenn sie mehr Informationen hat\r\n21.04.25 SMS mit privater Nummer\r\n23.04.25 Anruf mit Bitte um Rückmeldung. \r\n09.02.26 REENROLL - Lunch im FEB / MAR\r\n13.04.26 Lunch",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": true
-    },
-    {
       "id": "gLo43pjvIUuI5JGV1SFba5gAE-at",
       "title": "Typ von Julians Fest ",
       "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
@@ -4423,6 +4583,66 @@
       "description": "09.08.24 Angebot gesendet, wird sich bis Ende August bei mir melden\r\n08.10.24 Telefon - er hat die Unterlagen als Spam eingestuft sichtet und meldet sich heute zurück\r\n23.04.25 Anruf Andy Greenwell für follow up URO\r\n20.06.25 Andy Request Boat proposal\r\n25.08.25 Follow up Andy\r\n14.10.25 Folgegespräch vereinbart für 21.11\r\n11.11.25 Kündigung. Coaching Angeboten 90‘ für Weiterweg am 5.12. MK confirmed bis 25.11.\r\n30.01.25 Martin nicht erreicht (WhatsApp)\r\n11.03.26 Im Gespräch zzt. Bewerbung im neuen Job neu angehen, jetzt Wert generieren.\r\n17.04.26 In Gründung. Weiterbildung zu Digital Leader / Transformation. 2 Projekte in Pipeline (1 gross). Meldet sich in 3 Wochen für Zusammenarbeit.\r\n13.05.26 W/A Partnerschaft mit AI Firma in DE. Firmengründung im Mai. Netzwerk von Spezialisten Consulting Business, Juristen.\r\nEnde Mai: Sprechen, wenn er aus Leipzig zurück ist - Keynote / Training für Einkaufscommunity Akademie. Ich kann Konzept von H Safar einbringen.",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAA6NAlu7nqgkK5B00R5u4I9RAA6NAlu7nqgkK5B00R5u4I9Q==",
+      "has_description": true
+    },
+    {
+      "id": "GWucjKVEBkergt7GzAEv5pgAJXKV",
+      "title": "Masterclass | WIN connect day (May 28)",
+      "bucket_id": "uNr5rxQUSUOIpUyeCNXrEZgAGw_H",
+      "bucket_name": "Serve Powerfully",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 100,
+      "created_date": "2026-02-08T23:05:20.2252005Z",
+      "due_date": "2026-05-28T10:00:00Z",
+      "start_date": null,
+      "priority": 3,
+      "order_hint": "8584310150256365557Pp",
+      "description": "05.02.26: connect re WIN connect day masterclasses\r\n10.03.26 revision of offer (based on feedback)\r\n14.04.26: offer accepted (3700€)\r\n21.04.26: call to discuss concept & details",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "LJnnpfTt9UiwzUScYvbXQJgAEtQG",
+      "title": "Jan Overney",
+      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
+      "bucket_name": "Propose",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 100,
+      "created_date": "2026-03-07T08:06:04.0629873Z",
+      "due_date": "2026-06-03T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584287361814958645Pr",
+      "description": "11.03.26 CREATE Session\r\n03.06.26 PROPOSE - LOSS \r\nLearning: er hat sau viele Themen gleichzeitig. Schwierig zu greifen. Obstacle: jetzt nicht der richtige Zeitpunkt, sondern erst beim eigenen Business. Denke er ist Windowshopper - schon mit 4 coaches gearbeitet, alles gratis. Was noch besser machen: Handlungsdruck sauber raus arbeiten - war sehr schwierig. Delta aus: gemeinsamer Weg vs. Einzelweg.",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "60kTVmB11kabT_oh1pfwZpgAAAyD",
+      "title": "Karin Kisiala | Leiterin Digitale Transformation BL",
+      "bucket_id": "T3mU1p2KSUW45cHd63HxlpgAJvo6",
+      "bucket_name": "Re-enroll",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 100,
+      "created_date": "2024-08-20T05:20:10.4622176Z",
+      "due_date": null,
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584774757351244106PA",
+      "description": "Leitet digitale Transformation, hat ein OE \"inhouse\" (eine Person pro Direktion, einen direkt unterstellten OEler). Grosse Aufgaben (Strategie, Regierungsrat, etc.)\r\n\r\n12.04.24. Termin mit Pascal Boltzern - siehe ONENOTE / Kommentar \r\n21.05.2024 Mittagessen Anfrage verschoben und pendent \r\n20.08.2024 PB will sich melden wenn OE Community nicht mehr plätschert und restrukturiert werden soll / KK schliesst Zusammenarbeit nicht aus. >> Mittagessen organisieren. \r\n\r\n18.09.24 Kennenlernen ONEDAY Wasserfallen Event\r\n\r\nErneute Aufnahme Beziehung über Meeting im JAN \r\n24.03.25 Meldet sich wenn sie mehr Informationen hat\r\n21.04.25 SMS mit privater Nummer\r\n23.04.25 Anruf mit Bitte um Rückmeldung. \r\n09.02.26 REENROLL - Lunch im FEB / MAR\r\n01.06.26 Lunch - kein Kunde (negativ, Alpine zu wild für Verwaltung „kann man nicht durchbringen“) \r\nLearning: Workshops im Raum anbieten als fallback",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
       "has_description": true
     },
     {
