@@ -1,8 +1,69 @@
 {
-  "created_at": "2026-06-19T11:07:49.600626Z",
+  "created_at": "2026-06-26T10:01:36.539887Z",
   "plan_id": null,
-  "task_count": 291,
+  "task_count": 294,
   "tasks": [
+    {
+      "id": "9OcaJ9gQgkyFhDpZUfJ44pgAIz9a",
+      "title": "Jeremy Cesaire | Watches & Wonders",
+      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
+      "bucket_name": "Propose",
+      "assignees": [
+        "Julia Berhard",
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Julia Berhard, Oliver Wirths",
+      "percent_complete": 0,
+      "created_date": "2026-06-23T10:13:12.6532645Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": "2026-06-22T10:00:00Z",
+      "priority": 5,
+      "order_hint": "8584193973529598404P3",
+      "description": "22.06. Anfrage\r\n23.06 Erster Anruf / Email\r\n24.06. Call mit J\r\n22.06 Angebot schicken (J)\r\n16./17.07 Event",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "hx8amh9QoUukX99kBAwYf5gAOVzC",
+      "title": "Ivo Tran",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 50,
+      "created_date": "2026-06-20T20:05:57.4538516Z",
+      "due_date": "2026-07-17T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584196209880922379P(",
+      "description": "re-connect lunch/dinner mid July",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
+    {
+      "id": "ubkdh4r1I06EKaoCiItA05gAIZOa",
+      "title": "Viktoria Heuer | BCG",
+      "bucket_id": "ZAPucdTBZ0yZfFr3hBnQ4JgAIOza",
+      "bucket_name": "Waitlist",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 0,
+      "created_date": "2026-06-19T11:42:19.5261951Z",
+      "due_date": "2026-07-03T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584197376061322223P1",
+      "description": "connect via BCG teaming",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": true
+    },
     {
       "id": "2uHbbEOfMEGipJWcjH-3F5gAFofZ",
       "title": "Sue Bertschy | Expertin DEI",
@@ -114,14 +175,14 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 0,
       "created_date": "2026-06-10T21:14:19.5404955Z",
-      "due_date": "2026-06-19T10:00:00Z",
+      "due_date": "2026-07-03T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584204808859882162P9",
-      "description": "",
+      "description": "21.06. check for meet up",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": false
+      "has_description": true
     },
     {
       "id": "YklomAtnfECrpGLkdT6GzZgAN8PD",
@@ -712,16 +773,16 @@
         "Julia Berhard"
       ],
       "assignees_str": "Julia Berhard",
-      "percent_complete": 0,
+      "percent_complete": 50,
       "created_date": "2026-05-12T09:49:29.7859729Z",
-      "due_date": "2026-05-29T10:00:00Z",
+      "due_date": "2026-07-17T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584230275759024789P_",
-      "description": "",
+      "description": "Follow-up re Lumina Spark. Waiting for feedback to re-take test.",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": false
+      "has_description": true
     },
     {
       "id": "OvXgGKvPt0W5ULk8ATia7ZgAEc1q",
@@ -814,11 +875,11 @@
       "assignees_str": "Oliver Wirths",
       "percent_complete": 0,
       "created_date": "2026-04-29T09:03:59.8481154Z",
-      "due_date": "2026-06-24T10:00:00Z",
+      "due_date": "2026-06-30T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584241535056970480PG",
-      "description": "25.04.26 CONNECT - missed Call x 2\r\n29.04.26 CONNECT - missed Call x 1\r\n07.05.26 INVITE - Terminvorschläge nach Ferien schicken. (> Comments)\r\n24.06.26 INVITE - Terminvorschlag in Kalender geschickt",
+      "description": "25.04.26 CONNECT - missed Call x 2\r\n29.04.26 CONNECT - missed Call x 1\r\n07.05.26 INVITE - Terminvorschläge nach Ferien schicken. (> Comments)\r\n24.06.26 PROPOSE Session - Guter Call, Angebot schicken. Noch Wettbewerber im Rennen. Achtung Differenzieren: Gesamtkonzept bei uns besser als nur \"mit Tieren sprechen\"",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -995,11 +1056,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-04-16T23:18:08.3182314Z",
-      "due_date": "2026-05-29T10:00:00Z",
+      "due_date": "2026-07-03T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584252254572145697PU",
-      "description": "schedule connect for May 13",
+      "description": "schedule connect for May 13last chance to meet before move back to UK. Lunch 29.06.",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1587,22 +1648,22 @@
     {
       "id": "XlMET68SEkiMFclV2LdVDpgAP2vx",
       "title": "Eyal Lelouch",
-      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
-      "bucket_name": "Connect",
+      "bucket_id": "vUVK94EjwEipfm7xhpJKz5gABZge",
+      "bucket_name": "Invite",
       "assignees": [
         "Julia Berhard"
       ],
       "assignees_str": "Julia Berhard",
-      "percent_complete": 0,
+      "percent_complete": 50,
       "created_date": "2026-02-10T23:04:17.2748486Z",
-      "due_date": "2026-03-31T10:00:00Z",
+      "due_date": "2026-07-17T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584308422882449589Pi",
-      "description": "",
+      "description": "20.06.26: \"And it is difficult to explain why … but i am sure i would love to get some coaching session to understand and define my goals. And you are the one I think of. Just that I am afraid it is too heavy 😃 like mentale\"",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": false
+      "has_description": true
     },
     {
       "id": "MNX36fDLGEiezRPaXaeKcpgAE2ZI",
@@ -1675,11 +1736,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-02-08T23:52:48.3174908Z",
-      "due_date": "2026-05-22T10:00:00Z",
+      "due_date": "2026-07-03T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584310121771988999Pu",
-      "description": "12.05. invite für call 18.05. während Zugfahrt",
+      "description": "12.05. invite für call 18.05. während Zugfahrt\r\n20.06. invite call for 25.05.",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1715,11 +1776,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-02-08T22:05:57.992726Z",
-      "due_date": "2026-06-22T10:00:00Z",
+      "due_date": "2026-07-03T10:00:00Z",
       "start_date": null,
       "priority": 3,
       "order_hint": "8584310185875959186P@",
-      "description": "26.01.26 connect\r\n28.01.26 invite\r\n07.02.26: \"neue Company wird HR-Development verbunden mit HR Design, renewal, restructuring und HR-Systems/Tech. Damit gehen wir dann direkt Richtung Value creation chain im Unternehmen aber ganzheitlicher und tiefer\"\r\n23.02. call - Freelance possibility - will come back within next few weeks\r\n06.03.: konkrete Projekte in Pipeline, ok für Profil bei Pitches gegeben. Nach Afrika Trip konkrete Durchsprache\r\n\r\n09.04 koordiniert / 30.4. durchgeführt: Hintergrund-Gespräch mit Dominic/Armin\r\n12.05.: Kärcher kommt und startet nächste Woche\r\n10.06. Kick-off für Kärcher & 12.06. Planung für Projekt & Bedarf Tage etc. --> verschoben auf ungewiss\r\n16.06. Vertrag vorbesprochen JBCC x HvR\r\n\r\n************\r\nMögliche Projekte mit mir als \"HR Process, Change und Cost Expert\"\r\n\r\n- Global Business Services im HR (vorher McK drin)\r\n- Strategie Projekt (competitor Kienbaum gekickt?)\r\n- Transport Streck (Values)",
+      "description": "26.01.26 connect\r\n28.01.26 invite\r\n07.02.26: \"neue Company wird HR-Development verbunden mit HR Design, renewal, restructuring und HR-Systems/Tech. Damit gehen wir dann direkt Richtung Value creation chain im Unternehmen aber ganzheitlicher und tiefer\"\r\n23.02. call - Freelance possibility - will come back within next few weeks\r\n06.03.: konkrete Projekte in Pipeline, ok für Profil bei Pitches gegeben. Nach Afrika Trip konkrete Durchsprache\r\n\r\n09.04 koordiniert / 30.4. durchgeführt: Hintergrund-Gespräch mit Dominic/Armin\r\n12.05.: Kärcher kommt und startet nächste Woche\r\n10.06. Kick-off für Kärcher & 12.06. Planung für Projekt & Bedarf Tage etc. --> verschoben auf ungewiss\r\n16.06. Vertrag vorbesprochen JBCC x HvR - wird noch ausgearbeitet\r\n02.07. Kick-off Kärcher\r\n\r\n************\r\nMögliche Projekte mit mir als \"HR Process, Change und Cost Expert\"\r\n\r\n- Global Business Services im HR (vorher McK drin)\r\n- Strategie Projekt (competitor Kienbaum gekickt?)\r\n- Transport Streck (Values)",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -1735,11 +1796,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2026-02-08T21:39:02.8773591Z",
-      "due_date": "2026-02-13T10:00:00Z",
+      "due_date": "2026-07-24T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584310202026399558PT",
-      "description": "Treffen seit Nov geplant, jedoch mehrfach verschoben (weil neuer Job & Klein-Kind).\r\nWoche 16.02. Züri Treffen (TBD wann, weil sie neue Chefin hat)",
+      "description": "Treffen seit Nov geplant, jedoch mehrfach verschoben (weil neuer Job & Klein-Kind).\r\nWoche 16.02. Züri Treffen (TBD wann, weil sie neue Chefin hat)\r\nmeet in July",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2040,26 +2101,6 @@
       "priority": 5,
       "order_hint": "8584319746054750802PY",
       "description": "Head of Global Sales Operations Hubs at TÜV SÜD\r\n\r\n14.01.26: connect\r\nmeeting 11-14.02. in Zug",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": true
-    },
-    {
-      "id": "mQpwgnL-fkqdbqUVoRi-S5gAJvg9",
-      "title": "Lisa Chevalier",
-      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
-      "bucket_name": "Connect",
-      "assignees": [
-        "Julia Berhard"
-      ],
-      "assignees_str": "Julia Berhard",
-      "percent_complete": 50,
-      "created_date": "2026-01-27T12:34:47.4291392Z",
-      "due_date": "2026-02-27T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584320896581356294PR",
-      "description": "27.01.26: connect via Linkedin (BD)",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2915,7 +2956,7 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2025-11-10T13:24:17.9846097Z",
-      "due_date": "2026-05-29T10:00:00Z",
+      "due_date": "2026-07-17T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584388258875467167PY",
@@ -3039,10 +3080,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584410857420189028Pa",
-      "description": "",
+      "description": "wollte sich nochmal melden - bisher keine Rückmeldung, auch im Nov bei Event nicht.\r\nFollow-up bei Weihnachts-Treffen",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": false
+      "has_description": true
     },
     {
       "id": "N0I_pbhK6kKDm2I2_wTD-JgAO0p9",
@@ -3215,11 +3256,11 @@
       "assignees_str": "Julia Berhard",
       "percent_complete": 50,
       "created_date": "2025-10-09T20:45:08.948809Z",
-      "due_date": "2026-01-30T10:00:00Z",
+      "due_date": "2026-07-10T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584415642365647116Px",
-      "description": "07.10. connect: continue to discuss options\r\nOutdoor Coaching end of Dec - topics & date tbd\r\n09.01.26: outdoor coaching",
+      "description": "07.10. connect: continue to discuss options\r\nOutdoor Coaching end of Dec - topics & date tbd\r\n09.01.26: outdoor coaching\r\n19.06. catch-up. Follow-up with proposal",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -4683,6 +4724,26 @@
       "description": "09.08.24 Angebot gesendet, wird sich bis Ende August bei mir melden\r\n08.10.24 Telefon - er hat die Unterlagen als Spam eingestuft sichtet und meldet sich heute zurück\r\n23.04.25 Anruf Andy Greenwell für follow up URO\r\n20.06.25 Andy Request Boat proposal\r\n25.08.25 Follow up Andy\r\n14.10.25 Folgegespräch vereinbart für 21.11\r\n11.11.25 Kündigung. Coaching Angeboten 90‘ für Weiterweg am 5.12. MK confirmed bis 25.11.\r\n30.01.25 Martin nicht erreicht (WhatsApp)\r\n11.03.26 Im Gespräch zzt. Bewerbung im neuen Job neu angehen, jetzt Wert generieren.\r\n17.04.26 In Gründung. Weiterbildung zu Digital Leader / Transformation. 2 Projekte in Pipeline (1 gross). Meldet sich in 3 Wochen für Zusammenarbeit.\r\n13.05.26 W/A Partnerschaft mit AI Firma in DE. Firmengründung im Mai. Netzwerk von Spezialisten Consulting Business, Juristen.\r\nEnde Mai: Sprechen, wenn er aus Leipzig zurück ist - Keynote / Training für Einkaufscommunity Akademie. Ich kann Konzept von H Safar einbringen.",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAA6NAlu7nqgkK5B00R5u4I9RAA6NAlu7nqgkK5B00R5u4I9Q==",
+      "has_description": true
+    },
+    {
+      "id": "mQpwgnL-fkqdbqUVoRi-S5gAJvg9",
+      "title": "Lisa Chevalier",
+      "bucket_id": "bm8BEjE1qkyPQJ7wQt--yZgAC58a",
+      "bucket_name": "Connect",
+      "assignees": [
+        "Julia Berhard"
+      ],
+      "assignees_str": "Julia Berhard",
+      "percent_complete": 100,
+      "created_date": "2026-01-27T12:34:47.4291392Z",
+      "due_date": "2026-02-27T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584320896581356294PR",
+      "description": "27.01.26: connect via Linkedin (BD)\r\nin ihrer eigenen Welt...",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
       "has_description": true
     },
     {
