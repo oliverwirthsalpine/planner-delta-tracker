@@ -1,25 +1,25 @@
 {
-  "created_at": "2026-07-03T09:45:38.199685Z",
+  "created_at": "2026-07-10T10:04:56.996318Z",
   "plan_id": null,
   "task_count": 295,
   "tasks": [
     {
       "id": "sFwovRlqo0iaFdmuDiDA0pgAP_nW",
-      "title": "Sandra Chellakudam | AIT Nepal",
+      "title": "Sandra Chellakudam | ZHAW Assitant",
       "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
       "bucket_name": "Propose",
       "assignees": [],
       "assignees_str": "Unassigned",
       "percent_complete": 0,
       "created_date": "2026-07-02T19:40:35.5865662Z",
-      "due_date": null,
+      "due_date": "2026-07-10T10:00:00Z",
       "start_date": null,
       "priority": 5,
       "order_hint": "8584185857099380534P0",
-      "description": "",
+      "description": "Anfrage für Nepal Coaching für Startups",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": false
+      "has_description": true
     },
     {
       "id": "9OcaJ9gQgkyFhDpZUfJ44pgAIz9a",
@@ -158,26 +158,6 @@
       "priority": 5,
       "order_hint": "8584203542307888776P-",
       "description": "08.06.26 REFERRAL durch Fabian Hohl\r\n12.06.26 INVITE per Mail",
-      "checklist_count": 0,
-      "conversation_thread_id": null,
-      "has_description": true
-    },
-    {
-      "id": "jXY-KUypw0ug4wWfUpIYspgAHbOp",
-      "title": "Dominik Büttler | Selbstständig",
-      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
-      "bucket_name": "Propose",
-      "assignees": [
-        "Oliver Wirths"
-      ],
-      "assignees_str": "Oliver Wirths",
-      "percent_complete": 0,
-      "created_date": "2026-06-12T08:23:54.6070285Z",
-      "due_date": "2026-06-26T10:00:00Z",
-      "start_date": null,
-      "priority": 5,
-      "order_hint": "8584203543111565544P?",
-      "description": "11.06.26 CREATE WhatsApp Call: er möchte GL Offsite mit uns machen",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": true
@@ -2659,7 +2639,7 @@
       "priority": 5,
       "order_hint": "8584369507426150225P8",
       "description": "04.02.26 – Sold Team WS 🎉",
-      "checklist_count": 6,
+      "checklist_count": 7,
       "conversation_thread_id": null,
       "has_description": true
     },
@@ -3759,10 +3739,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584611905131655650",
-      "description": "Prozessentwixkling EME (Anneke) - Menschen entwickeln / Haltung entwickeln. Ihn empören. Das Führungsgremium empowers   Kultur! Konformistisch / impulsiv.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "e7hzGZxyQEaWvaIIY2jpcZgABJv5",
@@ -3779,10 +3759,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584614536324632379",
-      "description": "21.02.25 Proposal geschickt \r\n05.03.25 \"Melde mich wenn Trainingsbedarf definiert ist\"\r\n07.04.25 Artikel geschickt und angeboten mit ihr Trainingskonzept zu definieren.\r\n24.09.25 Training Julia in Wien (im Anschluss Materialien + Feedback-Link nur mit TN, nicht mit Auftraggeberin analog zu OW Briefing)\r\n30.09.25: Daniela fragt, ob Feedback Request geteilt wurde (JB leitet Mail weiter + schriftlich Feedback zu Training)\r\n07.10.25: Daniela fragt wiederholt nach Feedback in Formular von Training, JB schließt Kreis mit EY da EY Feedback nicht teilen will bei geringer Anzahl an Rückmeldungen (2 out of 12).",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAA0GC-Rtyt0EKuhMma62p5gRAA0GC-Rtyt0EKuhMma62p5gQ==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "NJBkyWNVJ0SjNDvvX7iT4ZgAJ5YO",
@@ -3799,10 +3779,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584615291664538592P|",
-      "description": "20.02.25 Will sich melden, wenn klar ist, wie es mit der Dept.leitung weiter geht\r\n01.07.2025 DELIVER\r\n10.07.25 Andreas wird sich nach interner Ausarbeitung des Zielbilds wieder melden, August/September. Strategietag soll für H2/25 geplant werden.\r\n11.03.26 Mail zur Reaktivierung\r\ns.u.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAh6Ex94gY8UuxskwQNez6YhAAh6Ex94gY8UuxskwQNez6Yg==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "er7QsZgpGUqvz6X-ErgqtJgAGdi8",
@@ -3819,10 +3799,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584652893526619896PB",
-      "description": "07.01.25 Reconnect\r\n05/25 Vereinbarung Touchpoint im Mai um September Offsite zu besprechen\r\n24.07.25 Hat einen polnischen Moderator ausgewählt. In Schweiz will sie auf mich zukommen. \r\nL: Chance verpasst - hätte mich vllt. mit Qualität durchsetzen können. Leider auch keine Zeit",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "7jXMF1fOI0ezkLVfua0XD5gAOyoc",
@@ -3859,10 +3839,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584669256003243269P@",
-      "description": "20.12.24 - Serve/Propose\r\n31.01.25 Decision - 3'500 Paket mit 1 Vorgespräch / Tag / 2 Nachgespräche passt\r\n07.02.25 nachgehakt - bitte sprechen\r\n14.03.25 Neue Chefin 1 Monat. Rückmeldung in 2 Monaten. Sieht Wert von \"Heart\" Work & Feedback von Chefin",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "vv5YsQ4B00yk7i_8LQtKbpgAGTa4",
@@ -3879,10 +3859,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584681032166645608",
-      "description": "6.12. absage mit bitte um Verschiebung auf FEB und Coaching im März\r\n06.02.26 Rückmeldung nach Anruf - INVITE\r\n09.02.26 PROPOSE - ASCENT see comment",
-      "checklist_count": 8,
+      "description": "",
+      "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAcjBbJjNPoE2oqz51wRvM8hAAcjBbJjNPoE2oqz51wRvM8g==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "UvqRRaj7c0iDS5GVRG7cy5gAGOQs",
@@ -3899,7 +3879,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584682795161772593Po",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -3919,10 +3899,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584690518505871596PN",
-      "description": "25.11.24 Leadership Skill Session. Propsal. Meldet sich nächste Woche.\r\n05.01.24 hat kein Funding erhalten - kommt für sie zzt. nicht in Frage.\r\n23.07.25 hat Funding erhalten :) und ist proaktiv auf mich zugekommen. – Angebot ASCENT + schicken\r\n24.10.25 Erste Session 🍾\r\n26.02.26 SMS an neue Nummer - meldet sich nächste Woche zurück\r\n11.03.26 Freundin gestorben in Lawine, löst GmbH auf. Ab Mai connect für online sessions\r\n13.05.26 SMS \r\n\r\nL: hätte nochmal aufmachen können - privat andere Preise als Corporate und andere Formate anbieten",
-      "checklist_count": 5,
+      "description": "",
+      "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "yczBWUlXi0-_JHmzzaAeXpgAMFNt",
@@ -3939,10 +3919,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584715114536902986PE",
-      "description": "27.10.2024 Kennengelernt beim Pumpkin Carving Hannah (Notes below), Unternehmensphasen nach Glasl geschickt",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAI6AJf3BvSkW4qcPjPkh_pxAAI6AJf3BvSkW4qcPjPkh_pw==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "HYJvQ7MEoE24cmKve763xJgAMAda",
@@ -3959,10 +3939,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584719932266759194",
-      "description": "22.10.24 CT will Kontakt zu Martin, HO Leadership Development ETH herstellen. \r\n20.11.24 Formular geschickt - zurück schreiben aus Flugzeug\r\n\r\nCoaching dort oftmals „letzte Chance“ für Professoren \r\nGrundsätzlich Frage ob Opportunität für externe Kunden.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "d9SizghwF0KAKBGYtyJk95gAHr5Q",
@@ -3979,10 +3959,10 @@
       "start_date": null,
       "priority": 3,
       "order_hint": "8584729509451832088P@",
-      "description": "11.10.24 - Angebot gemacht 2'500 für Projektunterstützung (Stv. / Entlastung PL // OE, Kommunikation)\r\nNext: Stephan meldet sich (bis Ende OKT) mit internen Abklärungen (Entscheidungsprozess)\r\n20.02.26 Idee Team Event anbieten\r\n13.03.26 20 weitere Tage in Aussicht gestellt\r\n23.03.26 PROPOSAL an I Cathry geschickt\r\n27.04.26 NACHGEFASST",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "XXGzqz2UFUiN44LefuoTWJgAPrqc",
@@ -3999,10 +3979,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584732048241223493P)",
-      "description": "08.10.2024 Liste mit Trainingsmöglichkeiten geschickt.\r\nKW 43 Verhandlungstraining - Abfrage der wichtigsten Skills\r\n28.10.2024 Call für weiteres Vorgehen Gruppen Trainings / Coachings in 2025\r\n15.11.2024 meldet sich mit Rückmeldungen von Carin und Soena – Go für Trial mit Carin\r\n25.11.2024 Proposal Carin\r\n28.02.2025 Flyer sollte abgestimmt sein und im Netzwerk verteilt werden.\r\n09.05.2025 Coffee & Talk über Defense Invest sowie Startup (ONENOTE)\r\n20.08.2025 LEAD WITH IMPACT EVENT",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "dhfCcvTe0U6fyoHXccawrpgABW6Q",
@@ -4019,10 +3999,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584742397099886233",
-      "description": "25.10.2024 Versand Angebot\r\n08.11.2024 Verhandlung und Details, Ruth kennen lernen\r\n25.11.2024 Email follow up geschickt\r\n29.01.2025 Follow Up Email\r\n27.02.2025 Kommerzielles Vorgespräch\r\n26.03.2026 Reminder für Session / Freischaltung für ASCENT\r\n13.05.26 Sales Video geschickt, AM bucht Termin",
-      "checklist_count": 8,
+      "description": "",
+      "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "XqhYKpHA5k2scP8mPDru7JgAMafc",
@@ -4039,10 +4019,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584748585259493405PZ",
-      "description": "17.01. Treffen in Bern",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "Lz7YKBWjYUKoMQDB_1IjLpgAH8lv",
@@ -4059,10 +4039,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584748588707331097Ps",
-      "description": "Kennenlernen 19.09.24 Justitia konkret. Pitch von dem was ich mache. \r\nEr macht auch Ausschreibungen für Verwaltungen, u.a. mit Dingen die OE benötigen. Da kann er mich in Zukunft berücksichtigen. Sucht \"sehr gute\" Projektleiter.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "zQJlvhSFikWunIsSfMXwRJgAKSzc",
@@ -4079,10 +4059,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584750195624289755P?",
-      "description": "17.09.24 Übergabecall – Meldet sich für Transformations / Change / Strategiebegleitung\r\n17.11.24 Sollte mich melden, wenn ich bis dahin noch nichts gehört habe um sicherzugehen, dass nix durchrutscht. Begründung: Start in Q1 - spätestens jetzt Kapazitäten sichern",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "eVk3m87VLUO7b92DmoQexJgAIQyv",
@@ -4119,7 +4099,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584766646274790297PN",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -4139,7 +4119,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584766646375413382Ph",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -4159,10 +4139,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584766646746778103Pj",
-      "description": "28.08.24 Connect Mail\r\n09.09.24 Walk & Talk in HAM bei Lumics\r\n14.10.24 Create & Propose\r\n31.10.24 Angebot versandt\r\n04.11.24 Verhandlung",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "hzLGjlewlUOqPHl-v5yW_5gAG76H",
@@ -4179,7 +4159,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584766647041936302PN",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -4219,7 +4199,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584766648330234294P\\",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -4239,7 +4219,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584766648547490521P]",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -4259,7 +4239,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584766648720463329PF",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -4299,10 +4279,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584766718721950344PF",
-      "description": "29.08.24 Invite beim Mittagessen mal tiefer drüber zu sprechen. Infomaterial geschickt.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "KXHbHwX4bkGGTZw_ZMJgW5gAEC2z",
@@ -4319,10 +4299,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584768598133127688PK",
-      "description": "26.08.2024 CvK meldet sich nach involveme. Team Intervention (ggf. auch Tag, seine Idee) soll aufbauend auf Feedback erstellt werden\r\n25.04.2025 Gespräch über persönliche Entwicklung auf ProX Summit",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "U8h8dIvWMEW4545qIVT9b5gADwPe",
@@ -4359,10 +4339,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584773731194253908",
-      "description": "- Personal Hand-written Invite (get mail address)\r\n- Qualify:\r\n- because they’re my top clients\r\n- need to bring +1",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "gLo43pjvIUuI5JGV1SFba5gAE-at",
@@ -4379,7 +4359,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584775343609951110",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -4419,10 +4399,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777277879665828P$",
-      "description": "Letzte Session wird Mitte September sein. Dann neues Angebot machen.\r\nKann ich für seine Company was in CO tun?\r\n08.10.2024 - follow up per Mail Termine geschickt\r\n08.11.2024 Follow Up Termin geplant\r\n02.12.2024 ASCENT in Denver\r\n26.02.2025 letzte Session - wie weiter?\r\n05.02.26 - Letzte Session im DEZ - wie weiter?\r\n13.04.26 - Session #6 - Invoice & Neue Offerte",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "VyvehsiN-UmWFibNrAeTi5gACgYw",
@@ -4439,10 +4419,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777278615695709PN",
-      "description": "13.12.24 🎄☕️\r\n07.02.25 Terminfindungsmail\r\n25.03.25 Gutes Gespräch (siehe ONENOTE) - im Mai gerne wieder melden – verkackt.\r\n11.03.26 Email",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "Zjm_6xSSgEup-z9XWkzV2JgANVk-",
@@ -4459,10 +4439,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777285326961096Po",
-      "description": "19.08.2024 Anruf ohne Antwort (Mailbox)\r\n08.10.2024 warme SMS - keine Antwort\r\n30.11.2024 Launch Campaign einbeziehen \r\n07.02.2025 SMS / Telefon\r\n19.03.2025 Gespräch >> Einladung nach Frankfurt.\r\n10.04.2025 Fragen wie es mit dem neuen CEO und auf den Aussentagungen gelaufen ist. Optionen für FRA Trip schicken.\r\n03.06.2025 FRA\r\n21.08. online Future zu change Begleitung – Offerte für 500 (Coach the Coach) und 1000 (Vor Ort) –– FOC für LinkedIn Post?\r\n05.09. (meldet sich in 14 Tagen)\r\n12.10. Keinen Kopf für nichts - in Zukunfr",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "jSfmhguk70u78f6f4G0FIpgAG4jm",
@@ -4479,10 +4459,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777286076861771Pp",
-      "description": "2.9.24  2. Vorsgespräch - Alpine\r\n13.11.24 ASCENT DAY\r\n14.02.25 meeting - Proposal\r\n20.03.25 Decision (Privat + Schallwerk)\r\n27.03.25 Cédric meldet sich bei mir mit Terminvorschlag\r\n17.04.25 nächste GL Sitzung.\r\n24.04.26 Gespräch - Schallwerk verlassen. Wunsch nach Coaching im September. \r\n09.09.26 Gespräch geplant",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "mKSeeXdv0ESM1SgOTMDVpZgAB2mP",
@@ -4499,10 +4479,10 @@
       "start_date": null,
       "priority": 3,
       "order_hint": "8584777288391257757P}",
-      "description": "13.08.24 Leadership Skills Sessions Diskussion\r\n15.08.24 Price List geschickt\r\n05.09.24 Vertrag OK - warte auf Session mit EY, Terminvorschläge gemacht\r\n04.10.24 Erster Termin im November gesetzt 😊 - ongoing assignment\r\n30.09.25 Volumen Training für 2026 sollte fix sein. Wichtig für Personalplanung 2026\r\nAnbieten Überarbeitung Conflict Mgt aufbauend auf Eidenschink (Julia) — the Standard for PMI.  Es so gut machen dass es alle wollen.\r\n06.03.26 Neuer Vorschlag für 2 Online Sessions (Maruina)",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "fhvLIStLZEe4cJNbrV1H75gALaAs",
@@ -4519,10 +4499,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777289673885115PN",
-      "description": "16.08.2024 ONEDAY+\r\n19.09.2024 Nachgespräch\r\n31.03.2026 Spätestes Datum Gespräch Team Event\r\n27.04.26 Vorschläge für Vorgespräch geschickt\r\n05.05.26 Missed Call - Versuch Sale zu retten",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "KCJ5JkGMN0eZBU8DlwNtr5gAHFYR",
@@ -4539,10 +4519,10 @@
       "start_date": null,
       "priority": 3,
       "order_hint": "8584777290169561552PC",
-      "description": "28.09.24 Angebot verschickt\r\n17.09.24 Angebot wurde angenommen\r\n23.01.25 Gespräch mit HR (Magdalena Eigner) falls sie zufrieden waren, um CD zu machen\r\n07.02.25 Angehauen wg Nachgespräch\r\n09.01.26 Erstellung Angebot für Change Story\r\n26.01.26 Angebotsbesprechung\r\n18.02.26 Decisions Call\r\n16.02.26 Kein Termin mehr mit L. Lariviere (Ende OS Zeit) - S Koenen meldet sich sobald neuer Leiter da ist - oder macht Nägel mit Köpfen.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "UCBiH67rtUudMt5EkKsxVZgALh_Y",
@@ -4559,10 +4539,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777292655279000P\"",
-      "description": "Fragen wie es mit neuer Chefin angelaufen ist",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "_auX9Jk5Lk-eRsnFDNuknpgANgHP",
@@ -4579,10 +4559,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777299271130381P'",
-      "description": "17.07.2024 Team Retro im September - er meldet sich bei Bedarf\r\n07.10.2024 in Trauer - Ende Oktober neu ansprechen",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAA8ClhhKzjIUWoubVqlOtzmhAA8ClhhKzjIUWoubVqlOtzmg==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "AJGxxLTqIkGsEYTBTLiYWZgAFBIn",
@@ -4599,7 +4579,7 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777303327306985P|",
-      "description": null,
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
       "has_description": false
@@ -4619,10 +4599,10 @@
       "start_date": null,
       "priority": 3,
       "order_hint": "8584777306428425977P<",
-      "description": "30.08.24 Angebot gültig bis 2.9.\r\n09.09.24 Nachfrage Angebot\r\n13.09.24 Wiedervorlage in 2 Wochen aufgrund von Audit\r\n31.10.24 Einladung letzte OKT Woche um fix zu machen\r\n22.11.24 Absage per Whatsapp - zu viele Probleme in Organisation. Eigentlich brauchen sie andere Hilfe.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "ugWf0LGypEiVSqfUlf1S75gAFmAl",
@@ -4639,10 +4619,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777307509459031PF",
-      "description": "13.09.24 Nudge\r\n05/2025 Supervision im Mai beim Siku\r\n03/2026 Team Coaching\r\n12.05.26 Referral",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "LP0PyvmCk02xrQ6zBQ-xYJgAChXh",
@@ -4659,10 +4639,10 @@
       "start_date": null,
       "priority": 3,
       "order_hint": "8584777311278184763Py",
-      "description": "23.08.24 SERVE\r\n09.09.24 Reminder Angebot – Werden wir erst nächstes Jahr besprechen\r\n17.09.24 Angebot für sie persönlich geschickt. \r\n08.10.24 Absage für dieses Jahr erhalten – 5 min Gespräch angeboten",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "WpoN_gLUEkuxLrhD0MeTH5gALhxE",
@@ -4679,10 +4659,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777313515897579Pw",
-      "description": "19.08.2024 Anruf - nicht dran gegangen. \r\n21.08.2024 im Urlaub, seine Sekretärin auch und wird sich melden\r\n08.10.2024 nudge Vorschläge\r\nMelden wenn in Stuttgart",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "QEuu3u5z4UqT6PwSyRSSOJgAMAet",
@@ -4699,10 +4679,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584778981173962412",
-      "description": "15.08.24 Gespräch bei Kaffee\r\n21.08.24 Nachfragen wegen Vernetzung\r\n13.09.24 Vorstellungsmail mit Terminvorschlägen\r\n04.10.24 Angebot geschickt\r\n25.11.24 Nachfrage für 10.12.24 in Liestal.\r\n07.02.25 Telefon\r\n26.02.25 Bitte Offerte für Führungskräfte Entwicklung - er schickt Informationen\r\n21.02.25 Offerte versandt - warte auf Rückmeldung\r\n01/26 Zmittag in Liestal\r\n17.02.26 PROPOSE Termin zum Talent Programm Outdoor BL\r\n15.04.26 PROPOSE Besprechung Offerte\r\n28.04.26 PROPOSE Proposal 1.5 Tage geschickt mit Bitte um Meeting für nächste Schritte\r\n29.04.26 PROPOSE inhaltlich passt es jetzt - Kostenübersicht schicken\r\n10.06.26 PROPOSE Präsentation bei Bettina & Rüedi. Gutgeheissen. Interne Besprechung, Feedback in 3 Wochen.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "BYx2SwbHEkqgGQ5DWGgQupgAElw4",
@@ -4719,10 +4699,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584782286554328955",
-      "description": "9.9. Connect: Meldet sich, wenn er ein Team Offsite plant bis Ende des Jahres.\r\n9.9. Team Stärken stärken gesendet\r\n31.10. Etwas für ihn wertvolles (s.u.) senden\r\n6.1.25 Re-connect",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAUgcxAGniukut2jXxO5uxjhAAUgcxAGniukut2jXxO5uxjg==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "mKjgWTLVrkS5xPCDZvALiZgABjea",
@@ -4739,10 +4719,30 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584784030556983706P4",
-      "description": "09.08.24 Angebot gesendet, wird sich bis Ende August bei mir melden\r\n08.10.24 Telefon - er hat die Unterlagen als Spam eingestuft sichtet und meldet sich heute zurück\r\n23.04.25 Anruf Andy Greenwell für follow up URO\r\n20.06.25 Andy Request Boat proposal\r\n25.08.25 Follow up Andy\r\n14.10.25 Folgegespräch vereinbart für 21.11\r\n11.11.25 Kündigung. Coaching Angeboten 90‘ für Weiterweg am 5.12. MK confirmed bis 25.11.\r\n30.01.25 Martin nicht erreicht (WhatsApp)\r\n11.03.26 Im Gespräch zzt. Bewerbung im neuen Job neu angehen, jetzt Wert generieren.\r\n17.04.26 In Gründung. Weiterbildung zu Digital Leader / Transformation. 2 Projekte in Pipeline (1 gross). Meldet sich in 3 Wochen für Zusammenarbeit.\r\n13.05.26 W/A Partnerschaft mit AI Firma in DE. Firmengründung im Mai. Netzwerk von Spezialisten Consulting Business, Juristen.\r\nEnde Mai: Sprechen, wenn er aus Leipzig zurück ist - Keynote / Training für Einkaufscommunity Akademie. Ich kann Konzept von H Safar einbringen.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAA6NAlu7nqgkK5B00R5u4I9RAA6NAlu7nqgkK5B00R5u4I9Q==",
-      "has_description": true
+      "has_description": false
+    },
+    {
+      "id": "jXY-KUypw0ug4wWfUpIYspgAHbOp",
+      "title": "Dominik Büttler | Selbstständig",
+      "bucket_id": "r5ArLxOW8EOHaeayqdEJ9JgAGeL8",
+      "bucket_name": "Propose",
+      "assignees": [
+        "Oliver Wirths"
+      ],
+      "assignees_str": "Oliver Wirths",
+      "percent_complete": 100,
+      "created_date": "2026-06-12T08:23:54.6070285Z",
+      "due_date": "2026-06-26T10:00:00Z",
+      "start_date": null,
+      "priority": 5,
+      "order_hint": "8584203543111565544P?",
+      "description": "",
+      "checklist_count": 0,
+      "conversation_thread_id": null,
+      "has_description": false
     },
     {
       "id": "mQpwgnL-fkqdbqUVoRi-S5gAJvg9",
@@ -4759,10 +4759,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584320896581356294PR",
-      "description": "27.01.26: connect via Linkedin (BD)\r\nin ihrer eigenen Welt...",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "YmyKMWt1AUO20N_shNrKtpgACakL",
@@ -4779,10 +4779,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584410802725717895P-",
-      "description": "Connect in Oct --> outdoor coaching candidate\r\nThen became father 5w early",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "-9bIswAZAUuh6U31jMh8VJgADOhI",
@@ -4799,10 +4799,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584210251421258468P>",
-      "description": "PROPOSE: Gespräch nach Inbound. Offer schicken am 04.06.2026",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "rPNMp9jiVkKo-HTGJTOXK5gAAVO1",
@@ -4819,10 +4819,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584241539164118820P(",
-      "description": "29.04.26 CONNECT- missed call\r\n07.05.26 2. Anruf\r\n11.06.26 LOST - kein Bedarf",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "GWucjKVEBkergt7GzAEv5pgAJXKV",
@@ -4839,10 +4839,10 @@
       "start_date": null,
       "priority": 3,
       "order_hint": "8584310150256365557Pp",
-      "description": "05.02.26: connect re WIN connect day masterclasses\r\n10.03.26 revision of offer (based on feedback)\r\n14.04.26: offer accepted (3700€)\r\n21.04.26: call to discuss concept & details",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "LJnnpfTt9UiwzUScYvbXQJgAEtQG",
@@ -4859,10 +4859,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584287361814958645Pr",
-      "description": "11.03.26 CREATE Session\r\n03.06.26 PROPOSE - LOSS \r\nLearning: er hat sau viele Themen gleichzeitig. Schwierig zu greifen. Obstacle: jetzt nicht der richtige Zeitpunkt, sondern erst beim eigenen Business. Denke er ist Windowshopper - schon mit 4 coaches gearbeitet, alles gratis. Was noch besser machen: Handlungsdruck sauber raus arbeiten - war sehr schwierig. Delta aus: gemeinsamer Weg vs. Einzelweg.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "60kTVmB11kabT_oh1pfwZpgAAAyD",
@@ -4879,10 +4879,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584774757351244106PA",
-      "description": "Leitet digitale Transformation, hat ein OE \"inhouse\" (eine Person pro Direktion, einen direkt unterstellten OEler). Grosse Aufgaben (Strategie, Regierungsrat, etc.)\r\n\r\n12.04.24. Termin mit Pascal Boltzern - siehe ONENOTE / Kommentar \r\n21.05.2024 Mittagessen Anfrage verschoben und pendent \r\n20.08.2024 PB will sich melden wenn OE Community nicht mehr plätschert und restrukturiert werden soll / KK schliesst Zusammenarbeit nicht aus. >> Mittagessen organisieren. \r\n\r\n18.09.24 Kennenlernen ONEDAY Wasserfallen Event\r\n\r\nErneute Aufnahme Beziehung über Meeting im JAN \r\n24.03.25 Meldet sich wenn sie mehr Informationen hat\r\n21.04.25 SMS mit privater Nummer\r\n23.04.25 Anruf mit Bitte um Rückmeldung. \r\n09.02.26 REENROLL - Lunch im FEB / MAR\r\n01.06.26 Lunch - kein Kunde (negativ, Alpine zu wild für Verwaltung „kann man nicht durchbringen“) \r\nLearning: Workshops im Raum anbieten als fallback",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "59x6sGT3Z0SHw4ucXdWkG5gAMODA",
@@ -4899,10 +4899,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584258338268997161PD",
-      "description": "07.04.26: connect via Whatsapp, war gesundheitlich für einige Zeit raus.10.4.26 no further response from him to catch-up",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "bLCkqYF6KEiawSO2P7IcxJgAGswy",
@@ -4919,10 +4919,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584326928503287556P*",
-      "description": "20.01.26 Connect – Idee Guest Speaker für Einkaufskonferenz im September. HS will sich melden. Wenn ich bis Ende April noch nichts gehört habe, ist es sinnvoll nachzuhaken.\r\n05.05.26 PROPOSE Proposal geschickt - Rückemeldung binnen 10 Werktagen\r\n08.05.26 LOSS – \"kein Platz auf der Konferenz\" / Priorität!! Anküpfungspunkt - wie macht er denn einen guten Spannnungsbogen auf der Konferenz und stellt sicher, dass die Menschen nicht nur Input (einatmen) sondern auch output (ausatmen) generieren? Balance von rechter und linker Gehirnhälfte? Dramaturgie?",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "kub1OzDWr06dXT4k1YEoApgABBw0",
@@ -4939,10 +4939,10 @@
       "start_date": null,
       "priority": 3,
       "order_hint": "8584421243886451373Pl",
-      "description": "11.11.25 Anfrage raus\r\n21.11.25 Connect in person\r\n28.11.25 Proposal raus\r\n04.12.25 Neha: \"will come back to you in next week.\"\r\n29.12.25 follow-up via mail - no response\r\n13.01.26 tried call, then follow-up mail\r\n07.05.26 JB break-up / close mail",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "7umCmxS880OTBbUDRIroj5gAPNFX",
@@ -4959,10 +4959,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584303470034859079P,",
-      "description": "16.02.26 Will mit Chef und HR sprechen, um ein Gespräch zu dritt zu ermöglichen. Nachhaken falls in 4 W nichts kommt.\r\n17.03.26 Mail\r\n05.05.26 Anruf AB - kein Effort mehr",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "l8UmwFaSaESlClUq1KkPKpgAJrZx",
@@ -4979,10 +4979,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584309396276857686PJ",
-      "description": "09.02.26 INBOUND - Terminvorschläge geschickt\r\n11.02.26 PROPOSE - mündliches Proposal 2'700 day rate (1.5 Tage Minimal bis 7700 (3 Tage) maximal+ Reisekosten). Rückmeldung bis nächste Woche.\r\n26.02.26 ANRUF - bitte um Rückruf\r\n18.03.2026 ANRUF - sie schreibt eine Mail\r\n05.05.2026 ANRUF - Mailbox. Keine weitere Energie mehr investieren",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "tA2XsQv0T06ri95xj-fWkpgAPEKJ",
@@ -4999,10 +4999,10 @@
       "start_date": null,
       "priority": 9,
       "order_hint": "8584313752414580526",
-      "description": "04.02.26 CONNECT - er hat gutes Netzwerk und will coachen. Wir Expertise. Vorschlag - gemeinsames Gespräch mit Lead.\r\n14.02.26 nachhaken - machen wir was?\r\n18.03.26 WhatsApp\r\n20.03.26 20% Chance bei Lead\r\n05.05.26 IQVIA als Vertriebspartner - er hakt nach. 2 Optionen: Unterstützung bei Sale oder Unterstützung bei Umsetzung. \r\nKEINE WEITERE ZEIT PROAKTIV INVESTIEREN.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "wJiRRhcS-E-RKU0ebDN1_JgADpmi",
@@ -5019,10 +5019,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584310202789259986P:",
-      "description": "09.02. Call\r\nMay: Brainstorming. Personally no need.\r\nReconnect after he built network",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "m6yD1hNF2kOSwJjjLJAAjJgAKbYe",
@@ -5039,10 +5039,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584283737514354473Pe",
-      "description": "11.03.26 Mail zur Dynamik im IET. Entscheidungsträger Marc.\r\n27.04.26 Good Bye Email",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "2LxYD2Hp8Ua-kW_n23PaTZgALnD_",
@@ -5059,10 +5059,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584295137831080042Pq",
-      "description": "26.02.26 LinkedIn Nachricht zur neuen Position\r\n11.03.26 Nachhaken",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "E63qyrUsE0m3oBSYpVDgK5gANLpD",
@@ -5079,10 +5079,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584414938567510562PG",
-      "description": "14.10.25 connect - pain currently in getting company properly set up, follow-up in a few weeks\r\n21.01.26: connect via Signal for next meeting --> Feb/March?\r\n13.02.26 book recommendation for Tom \"just ordered - thanks for signposting\"\r\n10.04.26 follow-up on personal catch-up for April\r\n21.04.26 - leaving Acasus. lots going on in personal life, hence therapy & acupuncture etc.  \r\nHence: I'll leave it for now..",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "6ReXBpzL2UivyPwZDcrDb5gADVwk",
@@ -5099,10 +5099,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584412094194355444Pf",
-      "description": "02.12.2025 connection confirmed, but no response.\r\n\r\nno follow-up or rapport --> no priority lead",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "Q9-I08okYUypUwsvL7sWcZgAJSAZ",
@@ -5119,10 +5119,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584380371310813058",
-      "description": "11.11.25 WhatsApp connect\r\n19.11.25 Call - siehe Notizen in ONENOTE. Verhandlung steht aus, er wird sich melden, dich darf mich melden, wenn bis 18.12.25 nichts kommt von ihm\r\n19.11.25 kurzes Coaching zum Weiterweg. CS meldet sich nach Klarheit Stellenbesetzung. Wenn nicht bis 18.12. melde ich mich per WhatsApp\r\n09.01.26 Anrufbeantworter\r\n20.01.26 WhatsApp\r\n18.03.26 WhatsApp mit was witzigem\r\n23.03.26 ABSAGE - EMS nicht mehr in der Situation dass es solche Trainings organsisiert.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "tvT23EsFjk-dgGboFx9bJpgAB0p5",
@@ -5139,10 +5139,10 @@
       "start_date": "2024-08-21T10:00:00Z",
       "priority": 5,
       "order_hint": "8584773606889881928PE",
-      "description": "21.08.24 Erstes Gespräch\r\n\r\n13.09.24 Nudge per Mail - Antwort\r\n19.09.24 Intro T Dillier bei Justitia konkret",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAARzXD3ckSa0q4KdP8itEk8xAARzXD3ckSa0q4KdP8itEk8w==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "6u7Aahw8mkuZ75dTaZou9pgAMlCR",
@@ -5159,10 +5159,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777301904802236P&",
-      "description": "17.08.24 CREATE: verschoben neuer Termin pending bei RM - er möchte es im Oktober nach seiner Rückkehr machen\r\n01.01.25 Start als PL - dann über Projektunterstützung reden\r\n4.4.25 hat mich auf der Liste – er braucht einen Anstoss wenn er sich bis Ende des Monats nicht meldet. Was ist der richtige Zeitpunkt?\r\n30.05.25 Gespräch mit Vital Meyer – m ein GEfühl es läuft grauenhaft!\r\nCANCELLED - er ist kein Entscheidungsträger. Window of Opportunity für 1:1 verpasst.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "kCiDwm-540i7ddGN5tgmUpgAGCpb",
@@ -5179,10 +5179,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584437414247852690",
-      "description": "Cancelled - keine Entscheidungsträger / kein Actionträger",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "kRSeeJpZL0aljyMgVDgbjpgALP7-",
@@ -5199,10 +5199,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584312997433926684Px",
-      "description": "13.02.26 Lunch\r\nCANCELLED: Keine Entscheidungsbefugnis. Wenn dann Michael Lariviere.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "CqlE87jukEKrsi2CF5y7nJgAE64C",
@@ -5219,10 +5219,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584287360301704412P{",
-      "description": "ABSAGE: über linkedin, sie haben bereits einen Entwicklungspartner.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "U4fk9QdrXUqvyIF64Df-i5gAOBab",
@@ -5239,10 +5239,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584763142097658371",
-      "description": "02.09.2024 Fragt Sportler für 1:1 kennenlernen an \r\n13.09.2024 - Athleten haben Interesse :)\r\n20.10.2024 - Gespräche sollen im Oktober stattfinden, spätestens vorletzte OKT Woche nudgen\r\nPrio 2 da Promo\r\n26.02.26 Raus genommen",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "JUtwDaslY0ayFl31rFxTc5gAIGAR",
@@ -5260,10 +5260,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584367534883439804P7",
-      "description": "17.12.25 SMS an Greg nachgefasst\r\n29.12.25 Antwort - Talk in JAN",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "P69uqkQqREyd5PJcUoYIl5gABRSK",
@@ -5280,10 +5280,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584378923266233069P=",
-      "description": "20.11.25 Connect nach PMI LTL – Situation siehe Kommentare\r\n12.12.25 CREATE - free coaching session\r\n09.01.26 Re-Enroll Nachricht Sprachbox\r\n30.01.26 Missed Call, Voice Mail Whatsapp\r\n02.02.26 Break up message",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAY80ssYWhRkSW2olc0dx2VxAAY80ssYWhRkSW2olc0dx2Vw==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "W4OhDp0agkinE2Qqds3EUZgANIZp",
@@ -5300,10 +5300,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584346606625033581",
-      "description": "Muss zuhören und verkaufen\r\nGespräch über Business Model für technicians training \r\n02.02.26 CREATE & PROPOSE\r\n23.02.26 PROPOSE YES / NO – NO",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAARKqY9Sj0qkizKoRC0XATnBAARKqY9Sj0qkizKoRC0XATnA==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "Gg3hzTyQ10KMWdizckD_V5gAJJyr",
@@ -5320,10 +5320,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584378916862003815PQ",
-      "description": "20.11.25 Good individual connection and coaching during LTL programs, sent personal invite for coaching session\r\n5.1.26 proposed ASCENT online - Rückmeldung nach Durchsprache mit Frau\r\n6.1.26 Follow up mail (keep it hot!)\r\n8.1.26 CANCEL - check financing\r\n9.1.26 Asked for call in two weeks to discuss other options\r\n30.01. Mail follow up",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "EA510Ljn-ESIp507rUxBupgAMIRK",
@@ -5340,10 +5340,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584611822108757281",
-      "description": "Ziel Keynote 21.05.2025 wie besprochen auf dem ProX Summit \r\n25.03.25 Sucht nach einer internen Lösung (Capitänin) - Feedback nächste Woche\r\n07.04.25 Email Frage int. lösung\r\nSie haben eine interne Lösung gefunden. Gleichzeitig  hat Svea mir schon 2 Coachees geschickt.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "pZgIZD7B3EmSBHEFQufbF5gAD-1n",
@@ -5360,10 +5360,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584768693939271922",
-      "description": "14.04.25 Proposal nach telefonischer Abklärung geschickt - Tochter ist verantwortlich. Alphonse noch da?",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "FuRctMBn60a7lWbpRRoqHZgAAqdJ",
@@ -5380,10 +5380,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777300747249593P[",
-      "description": "23.10.2024 Termin fix\r\n21.08.2024 Mailbox für FK Entwicklung LU\r\n29.08.2024 Email mit Anhang\r\n23.10.2024 Bitte Angebot schicken modular für Transformationsmanagement Produkte (Diagnose / Konzept / Kommunikation / Tagung / Workshop / Projektleitung „starker Support“ (=150k ausschöpfen mit 1.5 Tage pro Woche im Schnitt. Subcontract OK. \r\n30.10.2024 Versand Angebot\r\n08.11.2024 Erwartete Rückmeldung\r\n27.03.2025 Touchpoint - Prozessmgt | Change & OE: Pitch \"Training 90' wie mit Stinkstiefeln umgehen\" - will sich melden",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "UCStBUpVPkScPr4eZVcV5ZgAIn4Q",
@@ -5400,10 +5400,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584441128578450210",
-      "description": "10.09.25 Treffen zum Mittagessen [Vorbereitung](https://chatgpt.com/share/68c13ae1-b10c-8009-b72c-24d3685a16e1). Sie möchte mich mit einem kurzen Promo Video einen Termin bei der FKE Migros beschaffen. Wichtig ist, dass sie meinen USP gut verkaufen kann, weil sie 100e Anfragen haben.",
-      "checklist_count": 2,
+      "description": "",
+      "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "D3oc0DJ130SyZ9qhdgEkVZgAHXue",
@@ -5420,10 +5420,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584385419766816776",
-      "description": "14.11.25 Whatsapp - im Januar gut \r\n20.01.26 INVITE Whatsapp nach Info - ihr wurde gekündigt, sie braucht was neues, Invite auch für Julia\r\n22.01.26 Went with friend of hers",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "hA26sY4wr0SCEpHZ3iHhppgADVLd",
@@ -5440,10 +5440,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584352545768330020P<",
-      "description": "21.12.25 submitted CV",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "8zOnuZloFEyp-8d2o-L-e5gAAe2J",
@@ -5460,10 +5460,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777976624424147",
-      "description": "Mit Kommentar zu Preislichem und Entschuldigung er wir anschreiben. Keine gute Business Practice. \r\nHat nie wieder geantwortet. \r\nLEARN: Never charge more than what was offered. Period. Take the blame pay from personal wallet and move on.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "ej9MhSW4tUeQE6GqGGRifJgAD_3O",
@@ -5480,10 +5480,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584609437690139252P3",
-      "description": "2h session for \"Auslegeordnung\" - identify biggest levers for building sales in his coaching business. How to create the perfect pitch / offer, e.g. by pain - target state - hero journey could be helpful\r\n\r\n19.08.25 Reconnect – where does he stand? What's holding him back now?\r\n09.01.26 Does not see the need for coaching - also did not make powerful proposal. It's a no.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "RZHFw0vKyUWRodtmDZtg25gAElsD",
@@ -5500,10 +5500,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777285136360294P1",
-      "description": "14.10.2024 Last session \r\nNew sessions next year.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "JJgdlKy75UqmD-shp9NLh5gAEce1",
@@ -5520,10 +5520,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584451263627298647P9",
-      "description": "29.08.25 CONNECT nach Schwyz next Webinar. Einladung nach LU im Okt via Linkedin. \r\nxx.12.25 ABSAGE. Learning - ein genaues Steckenpferd zu haben wäre deutlich sinnvoller gewesen",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "rHAKOlw8JEqEsYuHUGutj5gAHwbu",
@@ -5540,10 +5540,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584415828872157045Pl",
-      "description": "09.10.25 - möchte sich wegen Sales Coaching melden\r\n24.10.25 - Email mit Sales Competency DEV Framework geschickt \r\n21.11.25 - low pressure follow up email\r\n26.11.25 - mail worked came back with a NO",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "h42hWoEse06xwWShdd5ugpgAGymc",
@@ -5560,10 +5560,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777308489464715PV",
-      "description": "16.08.24 will sich im Sep/Okt wieder melden\r\n24.10.24 FA hat sich proaktiv per Mail gemeldet, liegt bei ihr auf Wiedervorlage",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "_Ftl9SDPEkWIFpWGbncmaJgAAIvr",
@@ -5580,10 +5580,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584518600442878824PR",
-      "description": "12.06.2025 Virtual offsite | Offsite with his boss - HPTs!\r\n19.08.2025 Meeting with Vasco about offsite – promised to come back with info after talk w/ Chadi\r\n20.10. requested call after cancellation\r\nFinal cancellation by Vasco",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAH5OqTaR8nE23Yqdhkvk22xAAH5OqTaR8nE23Yqdhkvk22w==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "-J4LiwP6UEq1p32MAskxOpgAD-X5",
@@ -5600,10 +5600,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777283987876609Pm",
-      "description": "07.10.2024 CREATE\r\n31.10.2024 Rückmeldung Kontakt HR\r\n03.03.2025 Touchpoint, z.B. zum Thema Team - war zum Thema \"Nordstern\"\r\n06/2025 Er stellt einen Termin im Juni ein zur Entscheidung Jul/Aug zusammen arbeitne\r\n8.9. Traum und Dringlichkeit \r\n22.09.2025 Verschoben auf NOV (geringe Dringlichkeit)\r\n10.11.25 Will Entrepreneur werden allerdings erst Ende 2026. meldet sich. Ich lasse bewusst lost.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAApK8L8Nn0QUiys-lOJaH_DRAApK8L8Nn0QUiys-lOJaH_DQ==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "gqwf_GrRp0-c47sFRRK4vJgAOlRX",
@@ -5620,10 +5620,10 @@
       "start_date": "2025-05-26T10:00:00Z",
       "priority": 5,
       "order_hint": "8584598102124118795Pp",
-      "description": "12.03.25 Festgemacht mit noch einigen offenen Themen (Datum, Dinge für Bewerbung)\r\n26.05.25 Vorschlag Termin.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "Pk81BsQ7Ik61SjVHgjGtqpgAFewk",
@@ -5640,10 +5640,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584599780646340070",
-      "description": "10.03.25 Connect for LS referral. \r\n22.03.25 ask whether he looked into books (comments) and whether he wants to explore developing his sales team further \r\n07.04.25 wrote email\r\n25.04.25 created a lot of value for pitch deck and leadership development - more in book\r\n„We have a leadership coach“ — und es hat eine offene Email von ihm (auf die ich ihm\r\nNicht gedankt habe ) —Brücke gut abschliessen",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAACDhbLdIzC02DxSGVzuIHaBAACDhbLdIzC02DxSGVzuIHaA==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "H_wD_HKo3Uy2_895BLUeEZgAAzoa",
@@ -5660,10 +5660,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584451306730617455PH",
-      "description": "29.08.25 - Termin zu Hauskredit. Zusammenarbeit mit Kunden auf mehreren Ebenen. Will Kontakt herstellen. \r\n03.09.25 - \"Kommen bei Bedarf auf Dich zu\" - Learning - nach Kennenlerntermin fragen ohne irgendwas zu unterschreiben.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "a7G1VEC5OECxb2LajzEqZpgALHhP",
@@ -5680,10 +5680,10 @@
       "start_date": null,
       "priority": 3,
       "order_hint": "8584777287282479753PE",
-      "description": "20.08.24 Termin mit Hazim !!! Extrem wichtig – ein high pain high gain Gespräch führen\r\n29.08.24 Re-schedule auf OKT\r\n07.02.25 Testimonial bekommen. Zu kompliziert zu viel nachfragen. ich lasse los.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "5At8BLtc7UyzhHoI-1t4HpgAGIn2",
@@ -5700,10 +5700,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584753792682507667P[",
-      "description": "13.09.2024 Kontaktaufnahme per Mail\r\n10.10.2024 Persönliches Treffen – Flyer schicken, den er im HR verteilen kann. Melden spätestens im DEC.\r\nNie wieder was gehört. Zzt. nicht Priorität.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAA7ZpLA68OZUSa5gT2eN7FFBAA7ZpLA68OZUSa5gT2eN7FFA==",
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "DkC8ArCqTUuxPRbCaAzR8JgAN1ir",
@@ -5720,10 +5720,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584779452854523637",
-      "description": "Prio 2 da Promo",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "PskKmCVhMEO9Z5tfcLbo8pgAP2jy",
@@ -5740,10 +5740,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777228853497760P0",
-      "description": "14.08.2024 - will come back with appointment once boss is back from vacation\r\n17.09.2024 - W/A reminder\r\n20.09.2024 - No Budget\r\n08.10.2024 - W/A talk to boss? – nothing ATM",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "3go_0w5RDkC_O21Y5MnujJgAA5Z3",
@@ -5760,10 +5760,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777314323874279PL",
-      "description": "19.08.2024 Anruf Mailbox\r\n21.08.2024 Whataspp - noch Prio?\r\nPlan 29.08.2024 - gehe davon aus das nicht. Schade hätte mich gefreut. \r\n04.10.2024 - bin im Pool aber sie suchen zzt. nicht. Melden sich wenn es etwas konkretes gibt. \r\nCLOSE",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "xdFNrnJUi0WHjxc7NjtsNpgAP6zK",
@@ -5780,10 +5780,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584775268719743705Px",
-      "description": "19.08.24 Terminvorschläge persönliches Treffen geschickt.\r\n03.09.24 Persönliches Treffen mit Jan\r\nOutcome: weitergabe als Referral aber kein Business jetzt",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "xyKdEXiAHUeAjLUyGBBOY5gAMhx-",
@@ -5800,10 +5800,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777289168208317PL",
-      "description": "Hat Coaching zugesagt, war aber nicht mehr erreichbar. \r\n16.08.2024 Abschieds SMS\r\n\r\nLearning: kann ich die Menschen doch noch mehr motivieren: mehr pain, mehr gain? SMS könnte dafür sorgen, dass er sich jetzt meldet.",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "-S61fPfFHESHKuqlFRwjA5gAMfxH",
@@ -5840,10 +5840,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777304120043417P4",
-      "description": "wollte kein pers. coaching und ist für OE gut bedient",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "q7lal6Fv8Em0iR8QPjGfzpgAJNQB",
@@ -5860,10 +5860,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584777291707939240Pu",
-      "description": "wollte gar keine Coaching Session haben \r\n\r\n>> vorher besser qualifizieren!",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "OxbfiSTxe0uPds9za8NsiJgAABy-",
@@ -5880,10 +5880,10 @@
       "start_date": null,
       "priority": 5,
       "order_hint": "8584773747350030688Pc",
-      "description": "Hat Einladung für Coaching nie angenommen aber auch bereits einen Plan",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": null,
-      "has_description": true
+      "has_description": false
     },
     {
       "id": "cK-ugZA5zEKe_xn7mvlkcJgAI_jN",
@@ -5900,10 +5900,10 @@
       "start_date": "2024-08-19T10:00:00Z",
       "priority": 5,
       "order_hint": "8584775264276454645Pk",
-      "description": "19.08.2024 Erstgespräch mit Proposal 250 CHF pro Session 12 Sessions (siehe ONENOTE)\r\n26.08.2024 Kein Interesse an Coaching. Denke dies ging zu schnell. Auch wenn sie fragt - zuerst auf eine \r\n\r\nLearning: Coaching Session einladen, commercials kommen dann später. Slow it down! Es kam ihr zu professionell und kommerziell rüber. Krass viele Annahmen getroffen, die überhaupt nicht stimmen. Easy! Noch besser überlegen: wer sitzt vor mir?",
+      "description": "",
       "checklist_count": 0,
       "conversation_thread_id": "AAQkAGJmZGU4ZjhkLWQ4NDItNGM4Yy05M2Y5LTgwOWE1ZjFkMGY1YwMkABAAlycuxB7kG0WFRsqwdWZYRBAAlycuxB7kG0WFRsqwdWZYRA==",
-      "has_description": true
+      "has_description": false
     }
   ]
 }
